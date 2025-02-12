@@ -1,0 +1,2061 @@
+onset	duration	sample	value	trial_type	response_time	stim_file
+-0.001	1.514	n/a	boundary	n/a	n/a	n/a
+0	n/a	n/a	boundary	STATUS	n/a	n/a
+8.095	0.754	n/a	boundary	n/a	n/a	n/a
+18.725	1.51	n/a	boundary	n/a	n/a	n/a
+24.297	2.27	n/a	boundary	n/a	n/a	n/a
+26.323	1.516	n/a	boundary	n/a	n/a	n/a
+34.923	0.754	n/a	boundary	n/a	n/a	n/a
+38.217	0.504	n/a	boundary	n/a	n/a	n/a
+38.473	0.754	n/a	boundary	n/a	n/a	n/a
+53.907	1.51	n/a	boundary	n/a	n/a	n/a
+64.281	2.02	n/a	boundary	n/a	n/a	n/a
+71.365	1.01	n/a	boundary	n/a	n/a	n/a
+78.57	n/a	n/a	S  1	Fixation	n/a	n/a
+78.955	0.504	n/a	boundary	n/a	n/a	n/a
+80.146	n/a	n/a	S  3	Left Button	n/a	n/a
+80.38	n/a	n/a	S  8	STATUS	n/a	n/a
+80.38	n/a	n/a	R 12	STATUS	n/a	n/a
+81.438	n/a	n/a	S  1	Fixation	n/a	n/a
+82.16	n/a	n/a	S  9	STATUS	n/a	n/a
+82.16	n/a	n/a	R  6	STATUS	n/a	n/a
+83.714	n/a	n/a	S  3	Left Button	n/a	n/a
+83.714	n/a	n/a	R  6	STATUS	n/a	n/a
+83.99	n/a	n/a	S  7	STATUS	n/a	n/a
+83.99	n/a	n/a	R 12	STATUS	n/a	n/a
+85.048	n/a	n/a	S  1	Fixation	n/a	n/a
+85.533	0.502	n/a	boundary	n/a	n/a	n/a
+85.842	n/a	n/a	S  3	Left Button	n/a	n/a
+86.076	n/a	n/a	S  9	STATUS	n/a	n/a
+86.076	n/a	n/a	R 12	STATUS	n/a	n/a
+87.132	n/a	n/a	S  1	Fixation	n/a	n/a
+87.964	n/a	n/a	S  8	STATUS	n/a	n/a
+87.964	n/a	n/a	R  6	STATUS	n/a	n/a
+88.538	n/a	n/a	S  2	Right Button	n/a	n/a
+88.74	n/a	n/a	S  8	STATUS	n/a	n/a
+88.74	n/a	n/a	R 12	STATUS	n/a	n/a
+89.798	n/a	n/a	S  1	Fixation	n/a	n/a
+90.584	n/a	n/a	S  9	STATUS	n/a	n/a
+90.584	n/a	n/a	R  6	STATUS	n/a	n/a
+91.158	n/a	n/a	S  4	Up Button	n/a	n/a
+91.342	n/a	n/a	S  9	STATUS	n/a	n/a
+91.342	n/a	n/a	R 12	STATUS	n/a	n/a
+92.4	n/a	n/a	S  1	Fixation	n/a	n/a
+92.617	0.504	n/a	boundary	n/a	n/a	n/a
+93.346	n/a	n/a	S  4	Up Button	n/a	n/a
+93.63	n/a	n/a	S  9	STATUS	n/a	n/a
+93.63	n/a	n/a	R 12	STATUS	n/a	n/a
+94.688	n/a	n/a	S  1	Fixation	n/a	n/a
+95.518	n/a	n/a	S  5	STATUS	n/a	n/a
+95.518	n/a	n/a	R  6	STATUS	n/a	n/a
+96.25	n/a	n/a	S  3	Left Button	n/a	n/a
+96.574	n/a	n/a	S  8	STATUS	n/a	n/a
+96.574	n/a	n/a	R 12	STATUS	n/a	n/a
+97.63	n/a	n/a	S  1	Fixation	n/a	n/a
+97.677	0.504	n/a	boundary	n/a	n/a	n/a
+97.776	n/a	n/a	S  7	STATUS	n/a	n/a
+97.776	n/a	n/a	R  6	STATUS	n/a	n/a
+99.022	n/a	n/a	S  2	Right Button	n/a	n/a
+99.314	n/a	n/a	S  9	STATUS	n/a	n/a
+99.314	n/a	n/a	R 12	STATUS	n/a	n/a
+99.703	1.26	n/a	boundary	n/a	n/a	n/a
+99.802	n/a	n/a	S  6	STATUS	n/a	n/a
+99.802	n/a	n/a	R  6	STATUS	n/a	n/a
+101.146	n/a	n/a	S  4	Up Button	n/a	n/a
+101.348	n/a	n/a	S  9	STATUS	n/a	n/a
+101.348	n/a	n/a	R 12	STATUS	n/a	n/a
+101.983	0.754	n/a	boundary	n/a	n/a	n/a
+102.472	n/a	n/a	S  9	STATUS	n/a	n/a
+102.472	n/a	n/a	R  6	STATUS	n/a	n/a
+103.676	n/a	n/a	S  4	Up Button	n/a	n/a
+103.998	n/a	n/a	S  9	STATUS	n/a	n/a
+103.998	n/a	n/a	R 12	STATUS	n/a	n/a
+105.027	0.754	n/a	boundary	n/a	n/a	n/a
+106.554	n/a	n/a	S  3	Left Button	n/a	n/a
+106.554	n/a	n/a	R  6	STATUS	n/a	n/a
+106.886	n/a	n/a	S  7	STATUS	n/a	n/a
+106.886	n/a	n/a	R 12	STATUS	n/a	n/a
+107.813	0.498	n/a	boundary	n/a	n/a	n/a
+108.216	n/a	n/a	S 10	STATUS	n/a	n/a
+108.216	n/a	n/a	R  6	STATUS	n/a	n/a
+109.328	n/a	n/a	S  4	Up Button	n/a	n/a
+109.49	n/a	n/a	S  8	STATUS	n/a	n/a
+109.49	n/a	n/a	R 12	STATUS	n/a	n/a
+110.546	n/a	n/a	S  1	Fixation	n/a	n/a
+111.278	n/a	n/a	S  6	STATUS	n/a	n/a
+111.278	n/a	n/a	R  6	STATUS	n/a	n/a
+112.124	n/a	n/a	S  4	Up Button	n/a	n/a
+112.406	n/a	n/a	S  9	STATUS	n/a	n/a
+112.406	n/a	n/a	R 12	STATUS	n/a	n/a
+113.385	0.754	n/a	boundary	n/a	n/a	n/a
+114.142	n/a	n/a	S  4	Up Button	n/a	n/a
+114.304	n/a	n/a	S  8	STATUS	n/a	n/a
+114.304	n/a	n/a	R 12	STATUS	n/a	n/a
+115.36	n/a	n/a	S  1	Fixation	n/a	n/a
+115.411	0.502	n/a	boundary	n/a	n/a	n/a
+115.558	n/a	n/a	S 10	STATUS	n/a	n/a
+115.558	n/a	n/a	R  6	STATUS	n/a	n/a
+116.796	n/a	n/a	S  2	Right Button	n/a	n/a
+117.148	n/a	n/a	S  8	STATUS	n/a	n/a
+117.148	n/a	n/a	R 12	STATUS	n/a	n/a
+118.199	0.754	n/a	boundary	n/a	n/a	n/a
+118.232	n/a	n/a	S  8	STATUS	n/a	n/a
+118.232	n/a	n/a	R  6	STATUS	n/a	n/a
+119.234	n/a	n/a	S  4	Up Button	n/a	n/a
+119.486	n/a	n/a	S  9	STATUS	n/a	n/a
+119.486	n/a	n/a	R 12	STATUS	n/a	n/a
+120.479	0.754	n/a	boundary	n/a	n/a	n/a
+121.18	n/a	n/a	S  4	Up Button	n/a	n/a
+121.442	n/a	n/a	S  8	STATUS	n/a	n/a
+121.442	n/a	n/a	R 12	STATUS	n/a	n/a
+122.498	n/a	n/a	S  1	Fixation	n/a	n/a
+123.288	n/a	n/a	S  9	STATUS	n/a	n/a
+123.288	n/a	n/a	R  6	STATUS	n/a	n/a
+124.076	n/a	n/a	S  3	Left Button	n/a	n/a
+124.358	n/a	n/a	S  9	STATUS	n/a	n/a
+124.358	n/a	n/a	R 12	STATUS	n/a	n/a
+125.414	n/a	n/a	S  1	Fixation	n/a	n/a
+125.541	0.502	n/a	boundary	n/a	n/a	n/a
+125.614	n/a	n/a	S  6	STATUS	n/a	n/a
+125.614	n/a	n/a	R  6	STATUS	n/a	n/a
+126.45	n/a	n/a	S  4	Up Button	n/a	n/a
+126.802	n/a	n/a	S  9	STATUS	n/a	n/a
+126.802	n/a	n/a	R 12	STATUS	n/a	n/a
+127.823	0.498	n/a	boundary	n/a	n/a	n/a
+128.12	n/a	n/a	S 10	STATUS	n/a	n/a
+128.12	n/a	n/a	R  6	STATUS	n/a	n/a
+129.16	n/a	n/a	S  2	Right Button	n/a	n/a
+129.392	n/a	n/a	S  9	STATUS	n/a	n/a
+129.392	n/a	n/a	R 12	STATUS	n/a	n/a
+130.359	0.754	n/a	boundary	n/a	n/a	n/a
+130.444	n/a	n/a	S  9	STATUS	n/a	n/a
+130.444	n/a	n/a	R  6	STATUS	n/a	n/a
+131.294	n/a	n/a	S  3	Left Button	n/a	n/a
+131.496	n/a	n/a	S  9	STATUS	n/a	n/a
+131.496	n/a	n/a	R 12	STATUS	n/a	n/a
+132.385	0.754	n/a	boundary	n/a	n/a	n/a
+132.6	n/a	n/a	S  6	STATUS	n/a	n/a
+132.6	n/a	n/a	R  6	STATUS	n/a	n/a
+133.316	n/a	n/a	S  4	Up Button	n/a	n/a
+133.548	n/a	n/a	S  8	STATUS	n/a	n/a
+133.548	n/a	n/a	R 12	STATUS	n/a	n/a
+134.604	n/a	n/a	S  1	Fixation	n/a	n/a
+134.667	0.502	n/a	boundary	n/a	n/a	n/a
+134.932	n/a	n/a	S 10	STATUS	n/a	n/a
+134.932	n/a	n/a	R  6	STATUS	n/a	n/a
+135.75	n/a	n/a	S  2	Right Button	n/a	n/a
+135.992	n/a	n/a	S  9	STATUS	n/a	n/a
+135.992	n/a	n/a	R 12	STATUS	n/a	n/a
+137.05	n/a	n/a	S  1	Fixation	n/a	n/a
+137.7	n/a	n/a	S  8	STATUS	n/a	n/a
+137.7	n/a	n/a	R  6	STATUS	n/a	n/a
+138.874	n/a	n/a	S  2	Right Button	n/a	n/a
+139.106	n/a	n/a	S  9	STATUS	n/a	n/a
+139.106	n/a	n/a	R 12	STATUS	n/a	n/a
+139.479	1.258	n/a	boundary	n/a	n/a	n/a
+139.554	n/a	n/a	S 10	STATUS	n/a	n/a
+139.554	n/a	n/a	R  6	STATUS	n/a	n/a
+140.832	n/a	n/a	S  4	Up Button	n/a	n/a
+141.014	n/a	n/a	S  9	STATUS	n/a	n/a
+141.014	n/a	n/a	R 12	STATUS	n/a	n/a
+142.011	0.754	n/a	boundary	n/a	n/a	n/a
+142.066	n/a	n/a	S  7	STATUS	n/a	n/a
+142.066	n/a	n/a	R  6	STATUS	n/a	n/a
+143.31	n/a	n/a	S  2	Right Button	n/a	n/a
+143.592	n/a	n/a	S  9	STATUS	n/a	n/a
+143.592	n/a	n/a	R 12	STATUS	n/a	n/a
+144.648	n/a	n/a	S  1	Fixation	n/a	n/a
+145.468	n/a	n/a	S  5	STATUS	n/a	n/a
+145.468	n/a	n/a	R  6	STATUS	n/a	n/a
+146.398	n/a	n/a	S  2	Right Button	n/a	n/a
+146.67	n/a	n/a	S  8	STATUS	n/a	n/a
+146.67	n/a	n/a	R 12	STATUS	n/a	n/a
+147.583	0.498	n/a	boundary	n/a	n/a	n/a
+147.898	n/a	n/a	S  8	STATUS	n/a	n/a
+147.898	n/a	n/a	R  6	STATUS	n/a	n/a
+148.652	n/a	n/a	S  3	Left Button	n/a	n/a
+148.894	n/a	n/a	S  9	STATUS	n/a	n/a
+148.894	n/a	n/a	R 12	STATUS	n/a	n/a
+149.95	n/a	n/a	S  1	Fixation	n/a	n/a
+150.652	n/a	n/a	S  8	STATUS	n/a	n/a
+150.652	n/a	n/a	R  6	STATUS	n/a	n/a
+151.416	n/a	n/a	S  3	Left Button	n/a	n/a
+151.628	n/a	n/a	S  9	STATUS	n/a	n/a
+151.628	n/a	n/a	R 12	STATUS	n/a	n/a
+152.649	0.754	n/a	boundary	n/a	n/a	n/a
+153.91	n/a	n/a	S  2	Right Button	n/a	n/a
+154.122	n/a	n/a	S  9	STATUS	n/a	n/a
+154.122	n/a	n/a	R 12	STATUS	n/a	n/a
+155.178	n/a	n/a	S  1	Fixation	n/a	n/a
+155.938	n/a	n/a	S  6	STATUS	n/a	n/a
+155.938	n/a	n/a	R  6	STATUS	n/a	n/a
+156.61	n/a	n/a	S  2	Right Button	n/a	n/a
+156.88	n/a	n/a	S  9	STATUS	n/a	n/a
+156.88	n/a	n/a	R 12	STATUS	n/a	n/a
+157.938	n/a	n/a	S  1	Fixation	n/a	n/a
+157.965	0.498	n/a	boundary	n/a	n/a	n/a
+158.23	n/a	n/a	S  8	STATUS	n/a	n/a
+158.23	n/a	n/a	R  6	STATUS	n/a	n/a
+159.7	n/a	n/a	S  3	Left Button	n/a	n/a
+160.002	n/a	n/a	S  8	STATUS	n/a	n/a
+160.002	n/a	n/a	R 12	STATUS	n/a	n/a
+161.058	n/a	n/a	S  1	Fixation	n/a	n/a
+161.828	n/a	n/a	S 10	STATUS	n/a	n/a
+161.828	n/a	n/a	R  6	STATUS	n/a	n/a
+163.084	n/a	n/a	S  4	Up Button	n/a	n/a
+163.426	n/a	n/a	S  9	STATUS	n/a	n/a
+163.426	n/a	n/a	R 12	STATUS	n/a	n/a
+164.482	n/a	n/a	S  1	Fixation	n/a	n/a
+164.549	0.498	n/a	boundary	n/a	n/a	n/a
+164.734	n/a	n/a	S 10	STATUS	n/a	n/a
+164.734	n/a	n/a	R  6	STATUS	n/a	n/a
+165.758	n/a	n/a	S  3	Left Button	n/a	n/a
+165.948	n/a	n/a	S  9	STATUS	n/a	n/a
+165.948	n/a	n/a	R 12	STATUS	n/a	n/a
+166.829	0.504	n/a	boundary	n/a	n/a	n/a
+167.322	n/a	n/a	S  7	STATUS	n/a	n/a
+167.322	n/a	n/a	R  6	STATUS	n/a	n/a
+168.474	n/a	n/a	S  4	Up Button	n/a	n/a
+168.674	n/a	n/a	S  9	STATUS	n/a	n/a
+168.674	n/a	n/a	R 12	STATUS	n/a	n/a
+169.617	1.004	n/a	boundary	n/a	n/a	n/a
+169.98	n/a	n/a	S  4	Up Button	n/a	n/a
+170.302	n/a	n/a	S  9	STATUS	n/a	n/a
+170.302	n/a	n/a	R 12	STATUS	n/a	n/a
+171.358	n/a	n/a	S  1	Fixation	n/a	n/a
+171.391	0.754	n/a	boundary	n/a	n/a	n/a
+171.699	1.254	n/a	boundary	n/a	n/a	n/a
+172.012	n/a	n/a	S  1	Fixation	n/a	n/a
+172.169	1.51	n/a	boundary	n/a	n/a	n/a
+172.208	n/a	n/a	S  9	STATUS	n/a	n/a
+172.208	n/a	n/a	R 12	STATUS	n/a	n/a
+172.931	1.01	n/a	boundary	n/a	n/a	n/a
+173.026	n/a	n/a	S  5	STATUS	n/a	n/a
+173.026	n/a	n/a	R  6	STATUS	n/a	n/a
+173.82	n/a	n/a	S  4	Up Button	n/a	n/a
+174.104	n/a	n/a	S  8	STATUS	n/a	n/a
+174.104	n/a	n/a	R 12	STATUS	n/a	n/a
+175.16	n/a	n/a	S  1	Fixation	n/a	n/a
+175.213	0.498	n/a	boundary	n/a	n/a	n/a
+175.452	n/a	n/a	S 10	STATUS	n/a	n/a
+175.452	n/a	n/a	R  6	STATUS	n/a	n/a
+176.118	n/a	n/a	S  3	Left Button	n/a	n/a
+176.312	n/a	n/a	S  9	STATUS	n/a	n/a
+176.312	n/a	n/a	R 12	STATUS	n/a	n/a
+177.366	n/a	n/a	S  1	Fixation	n/a	n/a
+178.038	n/a	n/a	S 10	STATUS	n/a	n/a
+178.038	n/a	n/a	R  6	STATUS	n/a	n/a
+178.67	n/a	n/a	S  3	Left Button	n/a	n/a
+178.942	n/a	n/a	S  9	STATUS	n/a	n/a
+178.942	n/a	n/a	R 12	STATUS	n/a	n/a
+179.998	n/a	n/a	S  1	Fixation	n/a	n/a
+180.72	n/a	n/a	S  6	STATUS	n/a	n/a
+180.72	n/a	n/a	R  6	STATUS	n/a	n/a
+181.978	n/a	n/a	S  2	Right Button	n/a	n/a
+182.15	n/a	n/a	S  9	STATUS	n/a	n/a
+182.15	n/a	n/a	R 12	STATUS	n/a	n/a
+183.206	n/a	n/a	S  1	Fixation	n/a	n/a
+183.313	0.498	n/a	boundary	n/a	n/a	n/a
+183.46	n/a	n/a	S  5	STATUS	n/a	n/a
+183.46	n/a	n/a	R  6	STATUS	n/a	n/a
+184.406	n/a	n/a	S  4	Up Button	n/a	n/a
+184.586	n/a	n/a	S  9	STATUS	n/a	n/a
+184.586	n/a	n/a	R 12	STATUS	n/a	n/a
+185.089	1.01	n/a	boundary	n/a	n/a	n/a
+185.414	n/a	n/a	S  5	STATUS	n/a	n/a
+185.414	n/a	n/a	R  6	STATUS	n/a	n/a
+186.398	n/a	n/a	S  4	Up Button	n/a	n/a
+186.71	n/a	n/a	S  9	STATUS	n/a	n/a
+186.71	n/a	n/a	R 12	STATUS	n/a	n/a
+187.369	0.498	n/a	boundary	n/a	n/a	n/a
+188.07	n/a	n/a	S  8	STATUS	n/a	n/a
+188.07	n/a	n/a	R  6	STATUS	n/a	n/a
+189	n/a	n/a	S  3	Left Button	n/a	n/a
+189.292	n/a	n/a	S  8	STATUS	n/a	n/a
+189.292	n/a	n/a	R 12	STATUS	n/a	n/a
+190.348	n/a	n/a	S  1	Fixation	n/a	n/a
+190.413	0.498	n/a	boundary	n/a	n/a	n/a
+190.642	n/a	n/a	S  5	STATUS	n/a	n/a
+190.642	n/a	n/a	R  6	STATUS	n/a	n/a
+191.398	n/a	n/a	S  4	Up Button	n/a	n/a
+191.67	n/a	n/a	S  9	STATUS	n/a	n/a
+191.67	n/a	n/a	R 12	STATUS	n/a	n/a
+192.726	n/a	n/a	S  1	Fixation	n/a	n/a
+192.943	0.504	n/a	boundary	n/a	n/a	n/a
+194.026	n/a	n/a	S  3	Left Button	n/a	n/a
+194.378	n/a	n/a	S  9	STATUS	n/a	n/a
+194.378	n/a	n/a	R 12	STATUS	n/a	n/a
+195.225	1.516	n/a	boundary	n/a	n/a	n/a
+195.33	n/a	n/a	S  4	Up Button	n/a	n/a
+195.612	n/a	n/a	S  9	STATUS	n/a	n/a
+195.612	n/a	n/a	R 12	STATUS	n/a	n/a
+196.67	n/a	n/a	S  1	Fixation	n/a	n/a
+197.43	n/a	n/a	S  8	STATUS	n/a	n/a
+197.43	n/a	n/a	R  6	STATUS	n/a	n/a
+198.874	n/a	n/a	S  4	Up Button	n/a	n/a
+199.196	n/a	n/a	S  9	STATUS	n/a	n/a
+199.196	n/a	n/a	R 12	STATUS	n/a	n/a
+200.252	n/a	n/a	S  1	Fixation	n/a	n/a
+201.042	n/a	n/a	S  8	STATUS	n/a	n/a
+201.042	n/a	n/a	R  6	STATUS	n/a	n/a
+202.054	n/a	n/a	S  4	Up Button	n/a	n/a
+202.236	n/a	n/a	S  9	STATUS	n/a	n/a
+202.236	n/a	n/a	R 12	STATUS	n/a	n/a
+203.292	n/a	n/a	S  1	Fixation	n/a	n/a
+204.094	n/a	n/a	S  7	STATUS	n/a	n/a
+204.094	n/a	n/a	R  6	STATUS	n/a	n/a
+205.126	n/a	n/a	S  3	Left Button	n/a	n/a
+205.368	n/a	n/a	S  9	STATUS	n/a	n/a
+205.368	n/a	n/a	R 12	STATUS	n/a	n/a
+206.424	n/a	n/a	S  1	Fixation	n/a	n/a
+206.611	0.754	n/a	boundary	n/a	n/a	n/a
+207.16	n/a	n/a	S  4	Up Button	n/a	n/a
+207.322	n/a	n/a	S  8	STATUS	n/a	n/a
+207.322	n/a	n/a	R 12	STATUS	n/a	n/a
+208.378	n/a	n/a	S  1	Fixation	n/a	n/a
+209.12	n/a	n/a	S  5	STATUS	n/a	n/a
+209.12	n/a	n/a	R  6	STATUS	n/a	n/a
+210.164	n/a	n/a	S  2	Right Button	n/a	n/a
+210.366	n/a	n/a	S  9	STATUS	n/a	n/a
+210.366	n/a	n/a	R 12	STATUS	n/a	n/a
+211.421	0.754	n/a	boundary	n/a	n/a	n/a
+211.422	n/a	n/a	S  1	Fixation	n/a	n/a
+212.154	n/a	n/a	S  3	Left Button	n/a	n/a
+212.406	n/a	n/a	S  8	STATUS	n/a	n/a
+212.406	n/a	n/a	R 12	STATUS	n/a	n/a
+213.462	n/a	n/a	S  1	Fixation	n/a	n/a
+214.274	n/a	n/a	S  8	STATUS	n/a	n/a
+214.274	n/a	n/a	R  6	STATUS	n/a	n/a
+214.838	n/a	n/a	S  4	Up Button	n/a	n/a
+215.17	n/a	n/a	S  8	STATUS	n/a	n/a
+215.17	n/a	n/a	R 12	STATUS	n/a	n/a
+215.975	1.26	n/a	boundary	n/a	n/a	n/a
+216.462	n/a	n/a	S  4	Up Button	n/a	n/a
+216.654	n/a	n/a	S  9	STATUS	n/a	n/a
+216.654	n/a	n/a	R 12	STATUS	n/a	n/a
+217.71	n/a	n/a	S  1	Fixation	n/a	n/a
+218.362	n/a	n/a	S  6	STATUS	n/a	n/a
+218.362	n/a	n/a	R  6	STATUS	n/a	n/a
+219.302	n/a	n/a	S  4	Up Button	n/a	n/a
+219.654	n/a	n/a	S  9	STATUS	n/a	n/a
+219.654	n/a	n/a	R 12	STATUS	n/a	n/a
+220.535	0.754	n/a	boundary	n/a	n/a	n/a
+220.756	n/a	n/a	S  7	STATUS	n/a	n/a
+220.756	n/a	n/a	R  6	STATUS	n/a	n/a
+222.112	n/a	n/a	S  3	Left Button	n/a	n/a
+222.434	n/a	n/a	S  8	STATUS	n/a	n/a
+222.434	n/a	n/a	R 12	STATUS	n/a	n/a
+223.49	n/a	n/a	S  1	Fixation	n/a	n/a
+223.821	0.504	n/a	boundary	n/a	n/a	n/a
+224.524	n/a	n/a	S  3	Left Button	n/a	n/a
+224.686	n/a	n/a	S  9	STATUS	n/a	n/a
+224.686	n/a	n/a	R 12	STATUS	n/a	n/a
+225.091	1.01	n/a	boundary	n/a	n/a	n/a
+225.349	0.498	n/a	boundary	n/a	n/a	n/a
+225.836	n/a	n/a	S  3	Left Button	n/a	n/a
+226.148	n/a	n/a	S  9	STATUS	n/a	n/a
+226.148	n/a	n/a	R 12	STATUS	n/a	n/a
+227.204	n/a	n/a	S  1	Fixation	n/a	n/a
+228.034	n/a	n/a	S  9	STATUS	n/a	n/a
+228.034	n/a	n/a	R  6	STATUS	n/a	n/a
+229.104	n/a	n/a	S  3	Left Button	n/a	n/a
+229.286	n/a	n/a	S  9	STATUS	n/a	n/a
+229.286	n/a	n/a	R 12	STATUS	n/a	n/a
+230.159	0.754	n/a	boundary	n/a	n/a	n/a
+230.24	n/a	n/a	S 10	STATUS	n/a	n/a
+230.24	n/a	n/a	R  6	STATUS	n/a	n/a
+231.792	n/a	n/a	S  3	Left Button	n/a	n/a
+231.792	n/a	n/a	R  6	STATUS	n/a	n/a
+232.034	n/a	n/a	S  7	STATUS	n/a	n/a
+232.034	n/a	n/a	R 12	STATUS	n/a	n/a
+233.09	n/a	n/a	S  1	Fixation	n/a	n/a
+233.78	n/a	n/a	S 10	STATUS	n/a	n/a
+233.78	n/a	n/a	R  6	STATUS	n/a	n/a
+234.55	n/a	n/a	S  3	Left Button	n/a	n/a
+234.802	n/a	n/a	S  9	STATUS	n/a	n/a
+234.802	n/a	n/a	R 12	STATUS	n/a	n/a
+235.858	n/a	n/a	S  1	Fixation	n/a	n/a
+235.981	0.504	n/a	boundary	n/a	n/a	n/a
+236.184	n/a	n/a	S  6	STATUS	n/a	n/a
+236.184	n/a	n/a	R  6	STATUS	n/a	n/a
+237.11	n/a	n/a	S  2	Right Button	n/a	n/a
+237.382	n/a	n/a	S  9	STATUS	n/a	n/a
+237.382	n/a	n/a	R 12	STATUS	n/a	n/a
+238.261	1.004	n/a	boundary	n/a	n/a	n/a
+239.23	n/a	n/a	S  3	Left Button	n/a	n/a
+239.432	n/a	n/a	S  9	STATUS	n/a	n/a
+239.432	n/a	n/a	R 12	STATUS	n/a	n/a
+240.293	0.754	n/a	boundary	n/a	n/a	n/a
+240.544	n/a	n/a	S  5	STATUS	n/a	n/a
+240.544	n/a	n/a	R  6	STATUS	n/a	n/a
+242.016	n/a	n/a	S  4	Up Button	n/a	n/a
+242.238	n/a	n/a	S  8	STATUS	n/a	n/a
+242.238	n/a	n/a	R 12	STATUS	n/a	n/a
+243.294	n/a	n/a	S  1	Fixation	n/a	n/a
+244.046	n/a	n/a	S  6	STATUS	n/a	n/a
+244.046	n/a	n/a	R  6	STATUS	n/a	n/a
+244.832	n/a	n/a	S  4	Up Button	n/a	n/a
+245.064	n/a	n/a	S  8	STATUS	n/a	n/a
+245.064	n/a	n/a	R 12	STATUS	n/a	n/a
+246.12	n/a	n/a	S  1	Fixation	n/a	n/a
+246.88	n/a	n/a	S  5	STATUS	n/a	n/a
+246.88	n/a	n/a	R  6	STATUS	n/a	n/a
+247.696	n/a	n/a	S  4	Up Button	n/a	n/a
+247.958	n/a	n/a	S  9	STATUS	n/a	n/a
+247.958	n/a	n/a	R 12	STATUS	n/a	n/a
+249.014	n/a	n/a	S  1	Fixation	n/a	n/a
+249.149	0.754	n/a	boundary	n/a	n/a	n/a
+250.186	n/a	n/a	S  3	Left Button	n/a	n/a
+250.388	n/a	n/a	S  8	STATUS	n/a	n/a
+250.388	n/a	n/a	R 12	STATUS	n/a	n/a
+251.444	n/a	n/a	S  1	Fixation	n/a	n/a
+251.681	0.502	n/a	boundary	n/a	n/a	n/a
+253.06	n/a	n/a	S  2	Right Button	n/a	n/a
+253.322	n/a	n/a	S  8	STATUS	n/a	n/a
+253.322	n/a	n/a	R 12	STATUS	n/a	n/a
+254.378	n/a	n/a	S  1	Fixation	n/a	n/a
+255.14	n/a	n/a	S  8	STATUS	n/a	n/a
+255.14	n/a	n/a	R  6	STATUS	n/a	n/a
+255.888	n/a	n/a	S  3	Left Button	n/a	n/a
+256.19	n/a	n/a	S  9	STATUS	n/a	n/a
+256.19	n/a	n/a	R 12	STATUS	n/a	n/a
+257.246	n/a	n/a	S  1	Fixation	n/a	n/a
+257.998	n/a	n/a	S  6	STATUS	n/a	n/a
+257.998	n/a	n/a	R  6	STATUS	n/a	n/a
+258.948	n/a	n/a	S  2	Right Button	n/a	n/a
+259.25	n/a	n/a	S  9	STATUS	n/a	n/a
+259.25	n/a	n/a	R 12	STATUS	n/a	n/a
+260.306	n/a	n/a	S  1	Fixation	n/a	n/a
+260.539	0.498	n/a	boundary	n/a	n/a	n/a
+261.33	n/a	n/a	S  3	Left Button	n/a	n/a
+261.622	n/a	n/a	S  8	STATUS	n/a	n/a
+261.622	n/a	n/a	R 12	STATUS	n/a	n/a
+262.315	1.258	n/a	boundary	n/a	n/a	n/a
+262.728	n/a	n/a	S  3	Left Button	n/a	n/a
+262.9	n/a	n/a	S  9	STATUS	n/a	n/a
+262.9	n/a	n/a	R 12	STATUS	n/a	n/a
+263.956	n/a	n/a	S  1	Fixation	n/a	n/a
+264.091	0.754	n/a	boundary	n/a	n/a	n/a
+264.605	0.754	n/a	boundary	n/a	n/a	n/a
+265.113	1.258	n/a	boundary	n/a	n/a	n/a
+265.266	n/a	n/a	S  2	Right Button	n/a	n/a
+265.488	n/a	n/a	S  9	STATUS	n/a	n/a
+265.488	n/a	n/a	R 12	STATUS	n/a	n/a
+266.544	n/a	n/a	S  1	Fixation	n/a	n/a
+267.274	n/a	n/a	S  6	STATUS	n/a	n/a
+267.274	n/a	n/a	R  6	STATUS	n/a	n/a
+267.906	n/a	n/a	S  2	Right Button	n/a	n/a
+268.228	n/a	n/a	S  9	STATUS	n/a	n/a
+268.228	n/a	n/a	R 12	STATUS	n/a	n/a
+269.284	n/a	n/a	S  1	Fixation	n/a	n/a
+269.675	0.498	n/a	boundary	n/a	n/a	n/a
+270.508	n/a	n/a	S  4	Up Button	n/a	n/a
+270.71	n/a	n/a	S  9	STATUS	n/a	n/a
+270.71	n/a	n/a	R 12	STATUS	n/a	n/a
+271.766	n/a	n/a	S  1	Fixation	n/a	n/a
+272.616	n/a	n/a	S  5	STATUS	n/a	n/a
+272.616	n/a	n/a	R  6	STATUS	n/a	n/a
+273.408	n/a	n/a	S  4	Up Button	n/a	n/a
+273.61	n/a	n/a	S  9	STATUS	n/a	n/a
+273.61	n/a	n/a	R 12	STATUS	n/a	n/a
+274.485	0.504	n/a	boundary	n/a	n/a	n/a
+274.872	n/a	n/a	S  9	STATUS	n/a	n/a
+274.872	n/a	n/a	R  6	STATUS	n/a	n/a
+276.172	n/a	n/a	S  4	Up Button	n/a	n/a
+276.384	n/a	n/a	S  8	STATUS	n/a	n/a
+276.384	n/a	n/a	R 12	STATUS	n/a	n/a
+280.813	0.752	n/a	boundary	n/a	n/a	n/a
+282.839	0.504	n/a	boundary	n/a	n/a	n/a
+283.097	0.754	n/a	boundary	n/a	n/a	n/a
+283.256	n/a	n/a	S  7	STATUS	n/a	n/a
+283.256	n/a	n/a	R  6	STATUS	n/a	n/a
+284.218	n/a	n/a	S  4	Up Button	n/a	n/a
+284.398	n/a	n/a	S  8	STATUS	n/a	n/a
+284.398	n/a	n/a	R 12	STATUS	n/a	n/a
+285.456	n/a	n/a	S  1	Fixation	n/a	n/a
+286.176	n/a	n/a	S  8	STATUS	n/a	n/a
+286.176	n/a	n/a	R  6	STATUS	n/a	n/a
+287.294	n/a	n/a	S  3	Left Button	n/a	n/a
+287.456	n/a	n/a	S  9	STATUS	n/a	n/a
+287.456	n/a	n/a	R 12	STATUS	n/a	n/a
+288.512	n/a	n/a	S  1	Fixation	n/a	n/a
+288.663	0.504	n/a	boundary	n/a	n/a	n/a
+288.73	n/a	n/a	S  8	STATUS	n/a	n/a
+288.73	n/a	n/a	R  6	STATUS	n/a	n/a
+289.398	n/a	n/a	S  3	Left Button	n/a	n/a
+289.63	n/a	n/a	S  8	STATUS	n/a	n/a
+289.63	n/a	n/a	R 12	STATUS	n/a	n/a
+290.183	1.258	n/a	boundary	n/a	n/a	n/a
+291.682	n/a	n/a	S  3	Left Button	n/a	n/a
+291.682	n/a	n/a	R  6	STATUS	n/a	n/a
+291.844	n/a	n/a	S  7	STATUS	n/a	n/a
+291.844	n/a	n/a	R 12	STATUS	n/a	n/a
+292.9	n/a	n/a	S  1	Fixation	n/a	n/a
+293.652	n/a	n/a	S 10	STATUS	n/a	n/a
+293.652	n/a	n/a	R  6	STATUS	n/a	n/a
+294.236	n/a	n/a	S  2	Right Button	n/a	n/a
+294.556	n/a	n/a	S  8	STATUS	n/a	n/a
+294.556	n/a	n/a	R 12	STATUS	n/a	n/a
+295.499	0.754	n/a	boundary	n/a	n/a	n/a
+295.63	n/a	n/a	S  9	STATUS	n/a	n/a
+295.63	n/a	n/a	R  6	STATUS	n/a	n/a
+295.974	n/a	n/a	S  4	Up Button	n/a	n/a
+296.216	n/a	n/a	S  9	STATUS	n/a	n/a
+296.216	n/a	n/a	R 12	STATUS	n/a	n/a
+297.272	n/a	n/a	S  1	Fixation	n/a	n/a
+297.531	0.498	n/a	boundary	n/a	n/a	n/a
+298.12	n/a	n/a	S  4	Up Button	n/a	n/a
+298.4	n/a	n/a	S  8	STATUS	n/a	n/a
+298.4	n/a	n/a	R 12	STATUS	n/a	n/a
+299.307	0.754	n/a	boundary	n/a	n/a	n/a
+299.394	n/a	n/a	S  9	STATUS	n/a	n/a
+299.394	n/a	n/a	R  6	STATUS	n/a	n/a
+299.818	n/a	n/a	S  2	Right Button	n/a	n/a
+300.068	n/a	n/a	S  8	STATUS	n/a	n/a
+300.068	n/a	n/a	R 12	STATUS	n/a	n/a
+301.081	0.754	n/a	boundary	n/a	n/a	n/a
+301.082	n/a	n/a	S  8	STATUS	n/a	n/a
+301.082	n/a	n/a	R  6	STATUS	n/a	n/a
+302.636	n/a	n/a	S  3	Left Button	n/a	n/a
+302.636	n/a	n/a	R  6	STATUS	n/a	n/a
+302.808	n/a	n/a	S  7	STATUS	n/a	n/a
+302.808	n/a	n/a	R 12	STATUS	n/a	n/a
+303.363	0.504	n/a	boundary	n/a	n/a	n/a
+304.072	n/a	n/a	S  6	STATUS	n/a	n/a
+304.072	n/a	n/a	R  6	STATUS	n/a	n/a
+304.564	n/a	n/a	S  4	Up Button	n/a	n/a
+304.844	n/a	n/a	S  9	STATUS	n/a	n/a
+304.844	n/a	n/a	R 12	STATUS	n/a	n/a
+305.643	0.754	n/a	boundary	n/a	n/a	n/a
+305.958	n/a	n/a	S  7	STATUS	n/a	n/a
+305.958	n/a	n/a	R  6	STATUS	n/a	n/a
+306.858	n/a	n/a	S  3	Left Button	n/a	n/a
+307.068	n/a	n/a	S  8	STATUS	n/a	n/a
+307.068	n/a	n/a	R 12	STATUS	n/a	n/a
+308.124	n/a	n/a	S  1	Fixation	n/a	n/a
+308.916	n/a	n/a	S  8	STATUS	n/a	n/a
+308.916	n/a	n/a	R  6	STATUS	n/a	n/a
+309.654	n/a	n/a	S  3	Left Button	n/a	n/a
+309.966	n/a	n/a	S  9	STATUS	n/a	n/a
+309.966	n/a	n/a	R 12	STATUS	n/a	n/a
+310.959	0.498	n/a	boundary	n/a	n/a	n/a
+311.264	n/a	n/a	S  5	STATUS	n/a	n/a
+311.264	n/a	n/a	R  6	STATUS	n/a	n/a
+312.212	n/a	n/a	S  4	Up Button	n/a	n/a
+312.472	n/a	n/a	S  9	STATUS	n/a	n/a
+312.472	n/a	n/a	R 12	STATUS	n/a	n/a
+313.241	1.01	n/a	boundary	n/a	n/a	n/a
+314.462	n/a	n/a	S  4	Up Button	n/a	n/a
+314.752	n/a	n/a	S  8	STATUS	n/a	n/a
+314.752	n/a	n/a	R 12	STATUS	n/a	n/a
+315.81	n/a	n/a	S  1	Fixation	n/a	n/a
+316.54	n/a	n/a	S  6	STATUS	n/a	n/a
+316.54	n/a	n/a	R  6	STATUS	n/a	n/a
+317.978	n/a	n/a	S  2	Right Button	n/a	n/a
+318.278	n/a	n/a	S  8	STATUS	n/a	n/a
+318.278	n/a	n/a	R 12	STATUS	n/a	n/a
+319.311	0.754	n/a	boundary	n/a	n/a	n/a
+319.776	n/a	n/a	S  3	Left Button	n/a	n/a
+319.946	n/a	n/a	S  8	STATUS	n/a	n/a
+319.946	n/a	n/a	R 12	STATUS	n/a	n/a
+321.002	n/a	n/a	S  1	Fixation	n/a	n/a
+321.087	0.504	n/a	boundary	n/a	n/a	n/a
+321.26	n/a	n/a	S  7	STATUS	n/a	n/a
+321.26	n/a	n/a	R  6	STATUS	n/a	n/a
+321.976	n/a	n/a	S  2	Right Button	n/a	n/a
+322.258	n/a	n/a	S  9	STATUS	n/a	n/a
+322.258	n/a	n/a	R 12	STATUS	n/a	n/a
+323.314	n/a	n/a	S  1	Fixation	n/a	n/a
+323.369	0.498	n/a	boundary	n/a	n/a	n/a
+323.476	n/a	n/a	S  5	STATUS	n/a	n/a
+323.476	n/a	n/a	R  6	STATUS	n/a	n/a
+324.196	n/a	n/a	S  2	Right Button	n/a	n/a
+324.368	n/a	n/a	S  8	STATUS	n/a	n/a
+324.368	n/a	n/a	R 12	STATUS	n/a	n/a
+325.399	0.754	n/a	boundary	n/a	n/a	n/a
+326.898	n/a	n/a	S  2	Right Button	n/a	n/a
+327.09	n/a	n/a	S  8	STATUS	n/a	n/a
+327.09	n/a	n/a	R 12	STATUS	n/a	n/a
+328.146	n/a	n/a	S  1	Fixation	n/a	n/a
+328.808	n/a	n/a	S  7	STATUS	n/a	n/a
+328.808	n/a	n/a	R  6	STATUS	n/a	n/a
+329.454	n/a	n/a	S  3	Left Button	n/a	n/a
+329.666	n/a	n/a	S  8	STATUS	n/a	n/a
+329.666	n/a	n/a	R 12	STATUS	n/a	n/a
+330.715	0.754	n/a	boundary	n/a	n/a	n/a
+331.244	n/a	n/a	S  4	Up Button	n/a	n/a
+331.526	n/a	n/a	S  8	STATUS	n/a	n/a
+331.526	n/a	n/a	R 12	STATUS	n/a	n/a
+332.582	n/a	n/a	S  1	Fixation	n/a	n/a
+332.741	0.504	n/a	boundary	n/a	n/a	n/a
+332.9	n/a	n/a	S  7	STATUS	n/a	n/a
+332.9	n/a	n/a	R  6	STATUS	n/a	n/a
+333.64	n/a	n/a	S  4	Up Button	n/a	n/a
+333.992	n/a	n/a	S  8	STATUS	n/a	n/a
+333.992	n/a	n/a	R 12	STATUS	n/a	n/a
+334.765	0.754	n/a	boundary	n/a	n/a	n/a
+335.128	n/a	n/a	S  5	STATUS	n/a	n/a
+335.128	n/a	n/a	R  6	STATUS	n/a	n/a
+335.714	n/a	n/a	S  2	Right Button	n/a	n/a
+335.866	n/a	n/a	S  8	STATUS	n/a	n/a
+335.866	n/a	n/a	R 12	STATUS	n/a	n/a
+336.922	n/a	n/a	S  1	Fixation	n/a	n/a
+337.604	n/a	n/a	S  6	STATUS	n/a	n/a
+337.604	n/a	n/a	R  6	STATUS	n/a	n/a
+338.226	n/a	n/a	S  2	Right Button	n/a	n/a
+338.388	n/a	n/a	S  8	STATUS	n/a	n/a
+338.388	n/a	n/a	R 12	STATUS	n/a	n/a
+339.444	n/a	n/a	S  1	Fixation	n/a	n/a
+340.256	n/a	n/a	S  7	STATUS	n/a	n/a
+340.256	n/a	n/a	R  6	STATUS	n/a	n/a
+340.758	n/a	n/a	S  3	Left Button	n/a	n/a
+340.98	n/a	n/a	S  8	STATUS	n/a	n/a
+340.98	n/a	n/a	R 12	STATUS	n/a	n/a
+341.599	1.26	n/a	boundary	n/a	n/a	n/a
+341.798	n/a	n/a	S  4	Up Button	n/a	n/a
+342.15	n/a	n/a	S  8	STATUS	n/a	n/a
+342.15	n/a	n/a	R 12	STATUS	n/a	n/a
+343.123	0.754	n/a	boundary	n/a	n/a	n/a
+343.254	n/a	n/a	S  7	STATUS	n/a	n/a
+343.254	n/a	n/a	R  6	STATUS	n/a	n/a
+343.672	n/a	n/a	S  2	Right Button	n/a	n/a
+343.884	n/a	n/a	S  8	STATUS	n/a	n/a
+343.884	n/a	n/a	R 12	STATUS	n/a	n/a
+344.137	1.516	n/a	boundary	n/a	n/a	n/a
+344.636	n/a	n/a	S  3	Left Button	n/a	n/a
+344.858	n/a	n/a	S  8	STATUS	n/a	n/a
+344.858	n/a	n/a	R 12	STATUS	n/a	n/a
+345.657	0.758	n/a	boundary	n/a	n/a	n/a
+345.848	n/a	n/a	S  8	STATUS	n/a	n/a
+345.848	n/a	n/a	R  6	STATUS	n/a	n/a
+346.514	n/a	n/a	S  3	Left Button	n/a	n/a
+346.838	n/a	n/a	S  9	STATUS	n/a	n/a
+346.838	n/a	n/a	R 12	STATUS	n/a	n/a
+347.427	1.01	n/a	boundary	n/a	n/a	n/a
+347.724	n/a	n/a	S  6	STATUS	n/a	n/a
+347.724	n/a	n/a	R  6	STATUS	n/a	n/a
+348.476	n/a	n/a	S  2	Right Button	n/a	n/a
+348.778	n/a	n/a	S  8	STATUS	n/a	n/a
+348.778	n/a	n/a	R 12	STATUS	n/a	n/a
+349.453	1.26	n/a	boundary	n/a	n/a	n/a
+349.988	n/a	n/a	S  3	Left Button	n/a	n/a
+350.16	n/a	n/a	S  8	STATUS	n/a	n/a
+350.16	n/a	n/a	R 12	STATUS	n/a	n/a
+351.216	n/a	n/a	S  1	Fixation	n/a	n/a
+351.227	0.504	n/a	boundary	n/a	n/a	n/a
+351.514	n/a	n/a	S  8	STATUS	n/a	n/a
+351.514	n/a	n/a	R  6	STATUS	n/a	n/a
+352.308	n/a	n/a	S  2	Right Button	n/a	n/a
+352.6	n/a	n/a	S  8	STATUS	n/a	n/a
+352.6	n/a	n/a	R 12	STATUS	n/a	n/a
+353.656	n/a	n/a	S  1	Fixation	n/a	n/a
+354.498	n/a	n/a	S 10	STATUS	n/a	n/a
+354.498	n/a	n/a	R  6	STATUS	n/a	n/a
+355.26	n/a	n/a	S  2	Right Button	n/a	n/a
+355.432	n/a	n/a	S  8	STATUS	n/a	n/a
+355.432	n/a	n/a	R 12	STATUS	n/a	n/a
+356.287	0.754	n/a	boundary	n/a	n/a	n/a
+356.396	n/a	n/a	S  8	STATUS	n/a	n/a
+356.396	n/a	n/a	R  6	STATUS	n/a	n/a
+357.258	n/a	n/a	S  2	Right Button	n/a	n/a
+357.43	n/a	n/a	S  8	STATUS	n/a	n/a
+357.43	n/a	n/a	R 12	STATUS	n/a	n/a
+358.063	1.01	n/a	boundary	n/a	n/a	n/a
+358.258	n/a	n/a	S  7	STATUS	n/a	n/a
+358.258	n/a	n/a	R  6	STATUS	n/a	n/a
+359.148	n/a	n/a	S  3	Left Button	n/a	n/a
+359.362	n/a	n/a	S  9	STATUS	n/a	n/a
+359.362	n/a	n/a	R 12	STATUS	n/a	n/a
+360.416	n/a	n/a	S  1	Fixation	n/a	n/a
+360.593	0.504	n/a	boundary	n/a	n/a	n/a
+360.764	n/a	n/a	S  7	STATUS	n/a	n/a
+360.764	n/a	n/a	R  6	STATUS	n/a	n/a
+361.304	n/a	n/a	S  3	Left Button	n/a	n/a
+361.466	n/a	n/a	S  9	STATUS	n/a	n/a
+361.466	n/a	n/a	R 12	STATUS	n/a	n/a
+362.113	1.01	n/a	boundary	n/a	n/a	n/a
+362.342	n/a	n/a	S  5	STATUS	n/a	n/a
+362.342	n/a	n/a	R  6	STATUS	n/a	n/a
+363.11	n/a	n/a	S  2	Right Button	n/a	n/a
+363.342	n/a	n/a	S  9	STATUS	n/a	n/a
+363.342	n/a	n/a	R 12	STATUS	n/a	n/a
+364.393	0.498	n/a	boundary	n/a	n/a	n/a
+364.64	n/a	n/a	S  8	STATUS	n/a	n/a
+364.64	n/a	n/a	R  6	STATUS	n/a	n/a
+365.396	n/a	n/a	S  4	Up Button	n/a	n/a
+365.748	n/a	n/a	S  9	STATUS	n/a	n/a
+365.748	n/a	n/a	R 12	STATUS	n/a	n/a
+366.675	0.754	n/a	boundary	n/a	n/a	n/a
+366.8	n/a	n/a	S  6	STATUS	n/a	n/a
+366.8	n/a	n/a	R  6	STATUS	n/a	n/a
+367.562	n/a	n/a	S  4	Up Button	n/a	n/a
+367.794	n/a	n/a	S  8	STATUS	n/a	n/a
+367.794	n/a	n/a	R 12	STATUS	n/a	n/a
+368.85	n/a	n/a	S  1	Fixation	n/a	n/a
+368.955	0.504	n/a	boundary	n/a	n/a	n/a
+369.186	n/a	n/a	S  7	STATUS	n/a	n/a
+369.186	n/a	n/a	R  6	STATUS	n/a	n/a
+370.674	n/a	n/a	S  3	Left Button	n/a	n/a
+370.856	n/a	n/a	S  8	STATUS	n/a	n/a
+370.856	n/a	n/a	R 12	STATUS	n/a	n/a
+371.237	1.766	n/a	boundary	n/a	n/a	n/a
+371.928	n/a	n/a	S  3	Left Button	n/a	n/a
+372.22	n/a	n/a	S  8	STATUS	n/a	n/a
+372.22	n/a	n/a	R 12	STATUS	n/a	n/a
+373.276	n/a	n/a	S  1	Fixation	n/a	n/a
+374.116	n/a	n/a	S  7	STATUS	n/a	n/a
+374.116	n/a	n/a	R  6	STATUS	n/a	n/a
+374.728	n/a	n/a	S  3	Left Button	n/a	n/a
+374.91	n/a	n/a	S  8	STATUS	n/a	n/a
+374.91	n/a	n/a	R 12	STATUS	n/a	n/a
+375.966	n/a	n/a	S  1	Fixation	n/a	n/a
+376.616	n/a	n/a	S  7	STATUS	n/a	n/a
+376.616	n/a	n/a	R  6	STATUS	n/a	n/a
+377.684	n/a	n/a	S  3	Left Button	n/a	n/a
+377.956	n/a	n/a	S  9	STATUS	n/a	n/a
+377.956	n/a	n/a	R 12	STATUS	n/a	n/a
+379.012	n/a	n/a	S  1	Fixation	n/a	n/a
+379.081	0.498	n/a	boundary	n/a	n/a	n/a
+379.176	n/a	n/a	S  5	STATUS	n/a	n/a
+379.176	n/a	n/a	R  6	STATUS	n/a	n/a
+379.846	n/a	n/a	S  2	Right Button	n/a	n/a
+380.038	n/a	n/a	S  8	STATUS	n/a	n/a
+380.038	n/a	n/a	R 12	STATUS	n/a	n/a
+381.094	n/a	n/a	S  1	Fixation	n/a	n/a
+381.113	0.498	n/a	boundary	n/a	n/a	n/a
+381.446	n/a	n/a	S  5	STATUS	n/a	n/a
+381.446	n/a	n/a	R  6	STATUS	n/a	n/a
+381.912	n/a	n/a	S  4	Up Button	n/a	n/a
+382.164	n/a	n/a	S  8	STATUS	n/a	n/a
+382.164	n/a	n/a	R 12	STATUS	n/a	n/a
+383.22	n/a	n/a	S  1	Fixation	n/a	n/a
+383.393	0.754	n/a	boundary	n/a	n/a	n/a
+383.622	n/a	n/a	S  2	Right Button	n/a	n/a
+383.974	n/a	n/a	S  8	STATUS	n/a	n/a
+383.974	n/a	n/a	R 12	STATUS	n/a	n/a
+385.03	n/a	n/a	S  1	Fixation	n/a	n/a
+385.169	0.504	n/a	boundary	n/a	n/a	n/a
+385.266	n/a	n/a	S  9	STATUS	n/a	n/a
+385.266	n/a	n/a	R  6	STATUS	n/a	n/a
+386.01	n/a	n/a	S  2	Right Button	n/a	n/a
+386.182	n/a	n/a	S  8	STATUS	n/a	n/a
+386.182	n/a	n/a	R 12	STATUS	n/a	n/a
+387.195	0.502	n/a	boundary	n/a	n/a	n/a
+387.476	n/a	n/a	S  5	STATUS	n/a	n/a
+387.476	n/a	n/a	R  6	STATUS	n/a	n/a
+388.232	n/a	n/a	S  2	Right Button	n/a	n/a
+388.534	n/a	n/a	S  9	STATUS	n/a	n/a
+388.534	n/a	n/a	R 12	STATUS	n/a	n/a
+389.59	n/a	n/a	S  1	Fixation	n/a	n/a
+389.727	0.504	n/a	boundary	n/a	n/a	n/a
+389.738	n/a	n/a	S  6	STATUS	n/a	n/a
+389.738	n/a	n/a	R  6	STATUS	n/a	n/a
+390.476	n/a	n/a	S  4	Up Button	n/a	n/a
+390.718	n/a	n/a	S  9	STATUS	n/a	n/a
+390.718	n/a	n/a	R 12	STATUS	n/a	n/a
+391.247	1.008	n/a	boundary	n/a	n/a	n/a
+391.426	n/a	n/a	S  6	STATUS	n/a	n/a
+391.426	n/a	n/a	R  6	STATUS	n/a	n/a
+392.316	n/a	n/a	S  4	Up Button	n/a	n/a
+392.518	n/a	n/a	S  9	STATUS	n/a	n/a
+392.518	n/a	n/a	R 12	STATUS	n/a	n/a
+393.574	n/a	n/a	S  1	Fixation	n/a	n/a
+394.394	n/a	n/a	S  9	STATUS	n/a	n/a
+394.394	n/a	n/a	R  6	STATUS	n/a	n/a
+395.324	n/a	n/a	S  3	Left Button	n/a	n/a
+395.486	n/a	n/a	S  9	STATUS	n/a	n/a
+395.486	n/a	n/a	R 12	STATUS	n/a	n/a
+396.542	n/a	n/a	S  1	Fixation	n/a	n/a
+396.565	1.508	n/a	boundary	n/a	n/a	n/a
+397.072	n/a	n/a	S  2	Right Button	n/a	n/a
+397.264	n/a	n/a	S  8	STATUS	n/a	n/a
+397.264	n/a	n/a	R 12	STATUS	n/a	n/a
+398.091	0.754	n/a	boundary	n/a	n/a	n/a
+398.388	n/a	n/a	S  9	STATUS	n/a	n/a
+398.388	n/a	n/a	R  6	STATUS	n/a	n/a
+399.054	n/a	n/a	S  2	Right Button	n/a	n/a
+399.356	n/a	n/a	S  9	STATUS	n/a	n/a
+399.356	n/a	n/a	R 12	STATUS	n/a	n/a
+400.117	0.254	n/a	boundary	n/a	n/a	n/a
+400.158	n/a	n/a	S  1	Fixation	n/a	n/a
+400.91	n/a	n/a	S  7	STATUS	n/a	n/a
+400.91	n/a	n/a	R  6	STATUS	n/a	n/a
+402.336	n/a	n/a	S  4	Up Button	n/a	n/a
+402.498	n/a	n/a	S  9	STATUS	n/a	n/a
+402.498	n/a	n/a	R 12	STATUS	n/a	n/a
+402.897	0.754	n/a	boundary	n/a	n/a	n/a
+403.62	n/a	n/a	S  9	STATUS	n/a	n/a
+403.62	n/a	n/a	R  6	STATUS	n/a	n/a
+404.466	n/a	n/a	S  3	Left Button	n/a	n/a
+404.808	n/a	n/a	S  8	STATUS	n/a	n/a
+404.808	n/a	n/a	R 12	STATUS	n/a	n/a
+405.864	n/a	n/a	S  1	Fixation	n/a	n/a
+406.614	n/a	n/a	S  5	STATUS	n/a	n/a
+406.614	n/a	n/a	R  6	STATUS	n/a	n/a
+407.362	n/a	n/a	S  2	Right Button	n/a	n/a
+407.684	n/a	n/a	S  9	STATUS	n/a	n/a
+407.684	n/a	n/a	R 12	STATUS	n/a	n/a
+408.74	n/a	n/a	S  1	Fixation	n/a	n/a
+409.442	n/a	n/a	S 10	STATUS	n/a	n/a
+409.442	n/a	n/a	R  6	STATUS	n/a	n/a
+410.21	n/a	n/a	S  2	Right Button	n/a	n/a
+410.552	n/a	n/a	S  8	STATUS	n/a	n/a
+410.552	n/a	n/a	R 12	STATUS	n/a	n/a
+411.608	n/a	n/a	S  1	Fixation	n/a	n/a
+411.753	0.504	n/a	boundary	n/a	n/a	n/a
+411.844	n/a	n/a	S 10	STATUS	n/a	n/a
+411.844	n/a	n/a	R  6	STATUS	n/a	n/a
+412.47	n/a	n/a	S  3	Left Button	n/a	n/a
+412.682	n/a	n/a	S  8	STATUS	n/a	n/a
+412.682	n/a	n/a	R 12	STATUS	n/a	n/a
+413.738	n/a	n/a	S  1	Fixation	n/a	n/a
+413.779	0.504	n/a	boundary	n/a	n/a	n/a
+413.924	n/a	n/a	S  6	STATUS	n/a	n/a
+413.924	n/a	n/a	R  6	STATUS	n/a	n/a
+414.514	n/a	n/a	S  3	Left Button	n/a	n/a
+414.746	n/a	n/a	S  8	STATUS	n/a	n/a
+414.746	n/a	n/a	R 12	STATUS	n/a	n/a
+415.802	n/a	n/a	S  1	Fixation	n/a	n/a
+416.652	n/a	n/a	S  6	STATUS	n/a	n/a
+416.652	n/a	n/a	R  6	STATUS	n/a	n/a
+417.37	n/a	n/a	S  3	Left Button	n/a	n/a
+417.652	n/a	n/a	S  8	STATUS	n/a	n/a
+417.652	n/a	n/a	R 12	STATUS	n/a	n/a
+418.589	1.004	n/a	boundary	n/a	n/a	n/a
+418.95	n/a	n/a	S  2	Right Button	n/a	n/a
+419.262	n/a	n/a	S  9	STATUS	n/a	n/a
+419.262	n/a	n/a	R 12	STATUS	n/a	n/a
+420.318	n/a	n/a	S  1	Fixation	n/a	n/a
+421.11	n/a	n/a	S  8	STATUS	n/a	n/a
+421.11	n/a	n/a	R  6	STATUS	n/a	n/a
+422.174	n/a	n/a	S  2	Right Button	n/a	n/a
+422.466	n/a	n/a	S  8	STATUS	n/a	n/a
+422.466	n/a	n/a	R 12	STATUS	n/a	n/a
+423.522	n/a	n/a	S  1	Fixation	n/a	n/a
+423.655	0.498	n/a	boundary	n/a	n/a	n/a
+423.854	n/a	n/a	S  7	STATUS	n/a	n/a
+423.854	n/a	n/a	R  6	STATUS	n/a	n/a
+424.6	n/a	n/a	S  3	Left Button	n/a	n/a
+424.862	n/a	n/a	S  8	STATUS	n/a	n/a
+424.862	n/a	n/a	R 12	STATUS	n/a	n/a
+424.925	2.02	n/a	boundary	n/a	n/a	n/a
+425.336	n/a	n/a	S  3	Left Button	n/a	n/a
+425.558	n/a	n/a	S  8	STATUS	n/a	n/a
+425.558	n/a	n/a	R 12	STATUS	n/a	n/a
+426.445	0.754	n/a	boundary	n/a	n/a	n/a
+426.56	n/a	n/a	S  6	STATUS	n/a	n/a
+426.56	n/a	n/a	R  6	STATUS	n/a	n/a
+427.402	n/a	n/a	S  4	Up Button	n/a	n/a
+427.744	n/a	n/a	S  8	STATUS	n/a	n/a
+427.744	n/a	n/a	R 12	STATUS	n/a	n/a
+428.8	n/a	n/a	S  1	Fixation	n/a	n/a
+429.61	n/a	n/a	S  6	STATUS	n/a	n/a
+429.61	n/a	n/a	R  6	STATUS	n/a	n/a
+430.146	n/a	n/a	S  3	Left Button	n/a	n/a
+430.378	n/a	n/a	S  8	STATUS	n/a	n/a
+430.378	n/a	n/a	R 12	STATUS	n/a	n/a
+431.255	0.504	n/a	boundary	n/a	n/a	n/a
+431.65	n/a	n/a	S 10	STATUS	n/a	n/a
+431.65	n/a	n/a	R  6	STATUS	n/a	n/a
+432.206	n/a	n/a	S  2	Right Button	n/a	n/a
+432.418	n/a	n/a	S  9	STATUS	n/a	n/a
+432.418	n/a	n/a	R 12	STATUS	n/a	n/a
+433.281	0.754	n/a	boundary	n/a	n/a	n/a
+433.422	n/a	n/a	S  8	STATUS	n/a	n/a
+433.422	n/a	n/a	R  6	STATUS	n/a	n/a
+434.028	n/a	n/a	S  2	Right Button	n/a	n/a
+434.31	n/a	n/a	S  9	STATUS	n/a	n/a
+434.31	n/a	n/a	R 12	STATUS	n/a	n/a
+435.311	0.498	n/a	boundary	n/a	n/a	n/a
+435.608	n/a	n/a	S 10	STATUS	n/a	n/a
+435.608	n/a	n/a	R  6	STATUS	n/a	n/a
+436.462	n/a	n/a	S  4	Up Button	n/a	n/a
+436.684	n/a	n/a	S  8	STATUS	n/a	n/a
+436.684	n/a	n/a	R 12	STATUS	n/a	n/a
+437.74	n/a	n/a	S  1	Fixation	n/a	n/a
+438.51	n/a	n/a	S  6	STATUS	n/a	n/a
+438.51	n/a	n/a	R  6	STATUS	n/a	n/a
+439.37	n/a	n/a	S  3	Left Button	n/a	n/a
+439.702	n/a	n/a	S  9	STATUS	n/a	n/a
+439.702	n/a	n/a	R 12	STATUS	n/a	n/a
+440.377	1.004	n/a	boundary	n/a	n/a	n/a
+440.574	n/a	n/a	S  6	STATUS	n/a	n/a
+440.574	n/a	n/a	R  6	STATUS	n/a	n/a
+441.314	n/a	n/a	S  3	Left Button	n/a	n/a
+441.484	n/a	n/a	S  8	STATUS	n/a	n/a
+441.484	n/a	n/a	R 12	STATUS	n/a	n/a
+441.903	1.51	n/a	boundary	n/a	n/a	n/a
+442.552	n/a	n/a	S  2	Right Button	n/a	n/a
+442.704	n/a	n/a	S  9	STATUS	n/a	n/a
+442.704	n/a	n/a	R 12	STATUS	n/a	n/a
+443.677	0.754	n/a	boundary	n/a	n/a	n/a
+443.786	n/a	n/a	S  9	STATUS	n/a	n/a
+443.786	n/a	n/a	R  6	STATUS	n/a	n/a
+444.31	n/a	n/a	S  2	Right Button	n/a	n/a
+444.58	n/a	n/a	S  9	STATUS	n/a	n/a
+444.58	n/a	n/a	R 12	STATUS	n/a	n/a
+445.453	0.754	n/a	boundary	n/a	n/a	n/a
+445.694	n/a	n/a	S  9	STATUS	n/a	n/a
+445.694	n/a	n/a	R  6	STATUS	n/a	n/a
+446.764	n/a	n/a	S  4	Up Button	n/a	n/a
+446.964	n/a	n/a	S  8	STATUS	n/a	n/a
+446.964	n/a	n/a	R 12	STATUS	n/a	n/a
+448.02	n/a	n/a	S  1	Fixation	n/a	n/a
+448.682	n/a	n/a	S  6	STATUS	n/a	n/a
+448.682	n/a	n/a	R  6	STATUS	n/a	n/a
+449.376	n/a	n/a	S  2	Right Button	n/a	n/a
+449.608	n/a	n/a	S  9	STATUS	n/a	n/a
+449.608	n/a	n/a	R 12	STATUS	n/a	n/a
+450.013	0.498	n/a	boundary	n/a	n/a	n/a
+450.166	n/a	n/a	S  1	Fixation	n/a	n/a
+450.271	0.504	n/a	boundary	n/a	n/a	n/a
+450.332	n/a	n/a	S 10	STATUS	n/a	n/a
+450.332	n/a	n/a	R  6	STATUS	n/a	n/a
+451.886	n/a	n/a	S  3	Left Button	n/a	n/a
+451.886	n/a	n/a	R  6	STATUS	n/a	n/a
+452.118	n/a	n/a	S  7	STATUS	n/a	n/a
+452.118	n/a	n/a	R 12	STATUS	n/a	n/a
+453.174	n/a	n/a	S  1	Fixation	n/a	n/a
+453.984	n/a	n/a	S  8	STATUS	n/a	n/a
+453.984	n/a	n/a	R  6	STATUS	n/a	n/a
+454.834	n/a	n/a	S  2	Right Button	n/a	n/a
+455.114	n/a	n/a	S  9	STATUS	n/a	n/a
+455.114	n/a	n/a	R 12	STATUS	n/a	n/a
+456.17	n/a	n/a	S  1	Fixation	n/a	n/a
+456.343	0.504	n/a	boundary	n/a	n/a	n/a
+456.518	n/a	n/a	S  6	STATUS	n/a	n/a
+456.518	n/a	n/a	R  6	STATUS	n/a	n/a
+457.354	n/a	n/a	S  3	Left Button	n/a	n/a
+457.554	n/a	n/a	S  9	STATUS	n/a	n/a
+457.554	n/a	n/a	R 12	STATUS	n/a	n/a
+458.61	n/a	n/a	S  1	Fixation	n/a	n/a
+458.873	0.504	n/a	boundary	n/a	n/a	n/a
+458.928	n/a	n/a	S  5	STATUS	n/a	n/a
+458.928	n/a	n/a	R  6	STATUS	n/a	n/a
+459.758	n/a	n/a	S  3	Left Button	n/a	n/a
+460.01	n/a	n/a	S  8	STATUS	n/a	n/a
+460.01	n/a	n/a	R 12	STATUS	n/a	n/a
+460.899	0.754	n/a	boundary	n/a	n/a	n/a
+461.002	n/a	n/a	S 10	STATUS	n/a	n/a
+461.002	n/a	n/a	R  6	STATUS	n/a	n/a
+462.188	n/a	n/a	S  2	Right Button	n/a	n/a
+462.508	n/a	n/a	S  8	STATUS	n/a	n/a
+462.508	n/a	n/a	R 12	STATUS	n/a	n/a
+466.977	0.498	n/a	boundary	n/a	n/a	n/a
+467.344	n/a	n/a	S  1	Fixation	n/a	n/a
+467.491	1.258	n/a	boundary	n/a	n/a	n/a
+467.83	n/a	n/a	S  3	Left Button	n/a	n/a
+467.984	n/a	n/a	S  9	STATUS	n/a	n/a
+467.984	n/a	n/a	R 12	STATUS	n/a	n/a
+468.761	1.004	n/a	boundary	n/a	n/a	n/a
+469.498	n/a	n/a	S  2	Right Button	n/a	n/a
+469.85	n/a	n/a	S  8	STATUS	n/a	n/a
+469.85	n/a	n/a	R 12	STATUS	n/a	n/a
+470.537	1.01	n/a	boundary	n/a	n/a	n/a
+470.568	n/a	n/a	S  9	STATUS	n/a	n/a
+470.568	n/a	n/a	R  6	STATUS	n/a	n/a
+471.072	n/a	n/a	S  3	Left Button	n/a	n/a
+471.304	n/a	n/a	S  9	STATUS	n/a	n/a
+471.304	n/a	n/a	R 12	STATUS	n/a	n/a
+472.36	n/a	n/a	S  1	Fixation	n/a	n/a
+473.132	n/a	n/a	S  7	STATUS	n/a	n/a
+473.132	n/a	n/a	R  6	STATUS	n/a	n/a
+473.912	n/a	n/a	S  3	Left Button	n/a	n/a
+474.214	n/a	n/a	S  9	STATUS	n/a	n/a
+474.214	n/a	n/a	R 12	STATUS	n/a	n/a
+474.335	0.498	n/a	boundary	n/a	n/a	n/a
+474.772	n/a	n/a	S  1	Fixation	n/a	n/a
+474.849	0.498	n/a	boundary	n/a	n/a	n/a
+475.096	n/a	n/a	S 10	STATUS	n/a	n/a
+475.096	n/a	n/a	R  6	STATUS	n/a	n/a
+475.808	n/a	n/a	S  2	Right Button	n/a	n/a
+475.99	n/a	n/a	S  8	STATUS	n/a	n/a
+475.99	n/a	n/a	R 12	STATUS	n/a	n/a
+476.879	1.004	n/a	boundary	n/a	n/a	n/a
+477.396	n/a	n/a	S  4	Up Button	n/a	n/a
+477.548	n/a	n/a	S  8	STATUS	n/a	n/a
+477.548	n/a	n/a	R 12	STATUS	n/a	n/a
+478.604	n/a	n/a	S  1	Fixation	n/a	n/a
+479.266	n/a	n/a	S  8	STATUS	n/a	n/a
+479.266	n/a	n/a	R  6	STATUS	n/a	n/a
+479.852	n/a	n/a	S  3	Left Button	n/a	n/a
+480.076	n/a	n/a	S  9	STATUS	n/a	n/a
+480.076	n/a	n/a	R 12	STATUS	n/a	n/a
+480.933	0.498	n/a	boundary	n/a	n/a	n/a
+481.474	n/a	n/a	S  7	STATUS	n/a	n/a
+481.474	n/a	n/a	R  6	STATUS	n/a	n/a
+482.598	n/a	n/a	S  3	Left Button	n/a	n/a
+482.82	n/a	n/a	S  9	STATUS	n/a	n/a
+482.82	n/a	n/a	R 12	STATUS	n/a	n/a
+483.721	0.754	n/a	boundary	n/a	n/a	n/a
+483.844	n/a	n/a	S  9	STATUS	n/a	n/a
+483.844	n/a	n/a	R  6	STATUS	n/a	n/a
+484.496	n/a	n/a	S  3	Left Button	n/a	n/a
+484.728	n/a	n/a	S  9	STATUS	n/a	n/a
+484.728	n/a	n/a	R 12	STATUS	n/a	n/a
+485.245	0.754	n/a	boundary	n/a	n/a	n/a
+485.712	n/a	n/a	S  6	STATUS	n/a	n/a
+485.712	n/a	n/a	R  6	STATUS	n/a	n/a
+486.754	n/a	n/a	S  4	Up Button	n/a	n/a
+486.956	n/a	n/a	S  8	STATUS	n/a	n/a
+486.956	n/a	n/a	R 12	STATUS	n/a	n/a
+487.271	1.516	n/a	boundary	n/a	n/a	n/a
+487.298	n/a	n/a	S  8	STATUS	n/a	n/a
+487.298	n/a	n/a	R  6	STATUS	n/a	n/a
+488.25	n/a	n/a	S  4	Up Button	n/a	n/a
+488.412	n/a	n/a	S  9	STATUS	n/a	n/a
+488.412	n/a	n/a	R 12	STATUS	n/a	n/a
+489.468	n/a	n/a	S  1	Fixation	n/a	n/a
+489.801	0.504	n/a	boundary	n/a	n/a	n/a
+490.33	n/a	n/a	S  3	Left Button	n/a	n/a
+490.542	n/a	n/a	S  8	STATUS	n/a	n/a
+490.542	n/a	n/a	R 12	STATUS	n/a	n/a
+491.598	n/a	n/a	S  1	Fixation	n/a	n/a
+491.827	0.504	n/a	boundary	n/a	n/a	n/a
+492.634	n/a	n/a	S  3	Left Button	n/a	n/a
+492.916	n/a	n/a	S  8	STATUS	n/a	n/a
+492.916	n/a	n/a	R 12	STATUS	n/a	n/a
+493.972	n/a	n/a	S  1	Fixation	n/a	n/a
+494.107	0.498	n/a	boundary	n/a	n/a	n/a
+494.206	n/a	n/a	S  9	STATUS	n/a	n/a
+494.206	n/a	n/a	R  6	STATUS	n/a	n/a
+494.632	n/a	n/a	S  2	Right Button	n/a	n/a
+494.984	n/a	n/a	S  8	STATUS	n/a	n/a
+494.984	n/a	n/a	R 12	STATUS	n/a	n/a
+496.04	n/a	n/a	S  1	Fixation	n/a	n/a
+496.762	n/a	n/a	S 10	STATUS	n/a	n/a
+496.762	n/a	n/a	R  6	STATUS	n/a	n/a
+497.772	n/a	n/a	S  3	Left Button	n/a	n/a
+498.114	n/a	n/a	S  9	STATUS	n/a	n/a
+498.114	n/a	n/a	R 12	STATUS	n/a	n/a
+499.17	n/a	n/a	S  1	Fixation	n/a	n/a
+499.173	0.754	n/a	boundary	n/a	n/a	n/a
+499.694	n/a	n/a	S  3	Left Button	n/a	n/a
+499.896	n/a	n/a	S  9	STATUS	n/a	n/a
+499.896	n/a	n/a	R 12	STATUS	n/a	n/a
+500.187	2.272	n/a	boundary	n/a	n/a	n/a
+500.344	n/a	n/a	S  9	STATUS	n/a	n/a
+500.344	n/a	n/a	R 12	STATUS	n/a	n/a
+500.951	1.01	n/a	boundary	n/a	n/a	n/a
+501.202	n/a	n/a	S  6	STATUS	n/a	n/a
+501.202	n/a	n/a	R  6	STATUS	n/a	n/a
+502.14	n/a	n/a	S  2	Right Button	n/a	n/a
+502.452	n/a	n/a	S  8	STATUS	n/a	n/a
+502.452	n/a	n/a	R 12	STATUS	n/a	n/a
+503.508	n/a	n/a	S  1	Fixation	n/a	n/a
+504.3	n/a	n/a	S  7	STATUS	n/a	n/a
+504.3	n/a	n/a	R  6	STATUS	n/a	n/a
+505.032	n/a	n/a	S  3	Left Button	n/a	n/a
+505.344	n/a	n/a	S  8	STATUS	n/a	n/a
+505.344	n/a	n/a	R 12	STATUS	n/a	n/a
+506.4	n/a	n/a	S  1	Fixation	n/a	n/a
+507.06	n/a	n/a	S  7	STATUS	n/a	n/a
+507.06	n/a	n/a	R  6	STATUS	n/a	n/a
+507.78	n/a	n/a	S  2	Right Button	n/a	n/a
+507.982	n/a	n/a	S  8	STATUS	n/a	n/a
+507.982	n/a	n/a	R 12	STATUS	n/a	n/a
+508.795	0.754	n/a	boundary	n/a	n/a	n/a
+509.084	n/a	n/a	S 10	STATUS	n/a	n/a
+509.084	n/a	n/a	R  6	STATUS	n/a	n/a
+509.37	n/a	n/a	S  4	Up Button	n/a	n/a
+509.722	n/a	n/a	S  8	STATUS	n/a	n/a
+509.722	n/a	n/a	R 12	STATUS	n/a	n/a
+510.699	1.34	n/a	boundary	n/a	n/a	n/a
+510.726	n/a	n/a	S  3	Left Button	n/a	n/a
+511.028	n/a	n/a	S  9	STATUS	n/a	n/a
+511.028	n/a	n/a	R 12	STATUS	n/a	n/a
+512.084	n/a	n/a	S  1	Fixation	n/a	n/a
+512.846	n/a	n/a	S  8	STATUS	n/a	n/a
+512.846	n/a	n/a	R  6	STATUS	n/a	n/a
+513.37	n/a	n/a	S  3	Left Button	n/a	n/a
+513.582	n/a	n/a	S  9	STATUS	n/a	n/a
+513.582	n/a	n/a	R 12	STATUS	n/a	n/a
+514.638	n/a	n/a	S  1	Fixation	n/a	n/a
+515.468	n/a	n/a	S  7	STATUS	n/a	n/a
+515.468	n/a	n/a	R  6	STATUS	n/a	n/a
+516.674	n/a	n/a	S  4	Up Button	n/a	n/a
+516.986	n/a	n/a	S  9	STATUS	n/a	n/a
+516.986	n/a	n/a	R 12	STATUS	n/a	n/a
+517.323	1.26	n/a	boundary	n/a	n/a	n/a
+517.474	n/a	n/a	S  8	STATUS	n/a	n/a
+517.474	n/a	n/a	R  6	STATUS	n/a	n/a
+518.638	n/a	n/a	S  3	Left Button	n/a	n/a
+518.82	n/a	n/a	S  9	STATUS	n/a	n/a
+518.82	n/a	n/a	R 12	STATUS	n/a	n/a
+519.876	n/a	n/a	S  1	Fixation	n/a	n/a
+520.696	n/a	n/a	S  6	STATUS	n/a	n/a
+520.696	n/a	n/a	R  6	STATUS	n/a	n/a
+521.974	n/a	n/a	S  4	Up Button	n/a	n/a
+522.306	n/a	n/a	S  8	STATUS	n/a	n/a
+522.306	n/a	n/a	R 12	STATUS	n/a	n/a
+523.362	n/a	n/a	S  1	Fixation	n/a	n/a
+523.395	0.754	n/a	boundary	n/a	n/a	n/a
+523.398	n/a	n/a	S  6	STATUS	n/a	n/a
+523.398	n/a	n/a	R  6	STATUS	n/a	n/a
+523.768	n/a	n/a	S  2	Right Button	n/a	n/a
+524.05	n/a	n/a	S  9	STATUS	n/a	n/a
+524.05	n/a	n/a	R 12	STATUS	n/a	n/a
+525.106	n/a	n/a	S  1	Fixation	n/a	n/a
+525.826	n/a	n/a	S  6	STATUS	n/a	n/a
+525.826	n/a	n/a	R  6	STATUS	n/a	n/a
+526.34	n/a	n/a	S  2	Right Button	n/a	n/a
+526.502	n/a	n/a	S  9	STATUS	n/a	n/a
+526.502	n/a	n/a	R 12	STATUS	n/a	n/a
+527.556	n/a	n/a	S  1	Fixation	n/a	n/a
+528.248	n/a	n/a	S  6	STATUS	n/a	n/a
+528.248	n/a	n/a	R  6	STATUS	n/a	n/a
+528.812	n/a	n/a	S  2	Right Button	n/a	n/a
+529.164	n/a	n/a	S  9	STATUS	n/a	n/a
+529.164	n/a	n/a	R 12	STATUS	n/a	n/a
+529.473	1.004	n/a	boundary	n/a	n/a	n/a
+529.866	n/a	n/a	S  8	STATUS	n/a	n/a
+529.866	n/a	n/a	R  6	STATUS	n/a	n/a
+531.144	n/a	n/a	S  3	Left Button	n/a	n/a
+531.316	n/a	n/a	S  8	STATUS	n/a	n/a
+531.316	n/a	n/a	R 12	STATUS	n/a	n/a
+532.37	n/a	n/a	S  1	Fixation	n/a	n/a
+532.515	1.26	n/a	boundary	n/a	n/a	n/a
+533.104	n/a	n/a	S  2	Right Button	n/a	n/a
+533.446	n/a	n/a	S  9	STATUS	n/a	n/a
+533.446	n/a	n/a	R 12	STATUS	n/a	n/a
+534.502	n/a	n/a	S  1	Fixation	n/a	n/a
+535.322	n/a	n/a	S 10	STATUS	n/a	n/a
+535.322	n/a	n/a	R  6	STATUS	n/a	n/a
+536.584	n/a	n/a	S  3	Left Button	n/a	n/a
+536.896	n/a	n/a	S  8	STATUS	n/a	n/a
+536.896	n/a	n/a	R 12	STATUS	n/a	n/a
+537.952	n/a	n/a	S  1	Fixation	n/a	n/a
+538.081	0.504	n/a	boundary	n/a	n/a	n/a
+538.218	n/a	n/a	S  5	STATUS	n/a	n/a
+538.218	n/a	n/a	R  6	STATUS	n/a	n/a
+539.264	n/a	n/a	S  3	Left Button	n/a	n/a
+539.566	n/a	n/a	S  9	STATUS	n/a	n/a
+539.566	n/a	n/a	R 12	STATUS	n/a	n/a
+540.62	n/a	n/a	S  1	Fixation	n/a	n/a
+541.422	n/a	n/a	S 10	STATUS	n/a	n/a
+541.422	n/a	n/a	R  6	STATUS	n/a	n/a
+542.368	n/a	n/a	S  4	Up Button	n/a	n/a
+542.52	n/a	n/a	S  9	STATUS	n/a	n/a
+542.52	n/a	n/a	R 12	STATUS	n/a	n/a
+543.397	0.754	n/a	boundary	n/a	n/a	n/a
+543.532	n/a	n/a	S 10	STATUS	n/a	n/a
+543.532	n/a	n/a	R  6	STATUS	n/a	n/a
+544.714	n/a	n/a	S  4	Up Button	n/a	n/a
+545.006	n/a	n/a	S  9	STATUS	n/a	n/a
+545.006	n/a	n/a	R 12	STATUS	n/a	n/a
+546.06	n/a	n/a	S  1	Fixation	n/a	n/a
+546.822	n/a	n/a	S 10	STATUS	n/a	n/a
+546.822	n/a	n/a	R  6	STATUS	n/a	n/a
+547.518	n/a	n/a	S  4	Up Button	n/a	n/a
+547.85	n/a	n/a	S  9	STATUS	n/a	n/a
+547.85	n/a	n/a	R 12	STATUS	n/a	n/a
+548.904	n/a	n/a	S  1	Fixation	n/a	n/a
+549.746	n/a	n/a	S  8	STATUS	n/a	n/a
+549.746	n/a	n/a	R  6	STATUS	n/a	n/a
+551.15	n/a	n/a	S  2	Right Button	n/a	n/a
+551.492	n/a	n/a	S  9	STATUS	n/a	n/a
+551.492	n/a	n/a	R 12	STATUS	n/a	n/a
+551.749	1.004	n/a	boundary	n/a	n/a	n/a
+552.354	n/a	n/a	S  5	STATUS	n/a	n/a
+552.354	n/a	n/a	R  6	STATUS	n/a	n/a
+553.086	n/a	n/a	S  3	Left Button	n/a	n/a
+553.338	n/a	n/a	S  9	STATUS	n/a	n/a
+553.338	n/a	n/a	R 12	STATUS	n/a	n/a
+554.392	n/a	n/a	S  1	Fixation	n/a	n/a
+555.224	n/a	n/a	S  5	STATUS	n/a	n/a
+555.224	n/a	n/a	R  6	STATUS	n/a	n/a
+556.102	n/a	n/a	S  3	Left Button	n/a	n/a
+556.324	n/a	n/a	S  8	STATUS	n/a	n/a
+556.324	n/a	n/a	R 12	STATUS	n/a	n/a
+557.38	n/a	n/a	S  1	Fixation	n/a	n/a
+557.569	0.754	n/a	boundary	n/a	n/a	n/a
+558.076	n/a	n/a	S  3	Left Button	n/a	n/a
+558.268	n/a	n/a	S  8	STATUS	n/a	n/a
+558.268	n/a	n/a	R 12	STATUS	n/a	n/a
+559.322	n/a	n/a	S  1	Fixation	n/a	n/a
+559.601	0.498	n/a	boundary	n/a	n/a	n/a
+560.77	n/a	n/a	S  2	Right Button	n/a	n/a
+561.042	n/a	n/a	S  8	STATUS	n/a	n/a
+561.042	n/a	n/a	R 12	STATUS	n/a	n/a
+562.098	n/a	n/a	S  1	Fixation	n/a	n/a
+562.868	n/a	n/a	S  6	STATUS	n/a	n/a
+562.868	n/a	n/a	R  6	STATUS	n/a	n/a
+563.37	n/a	n/a	S  4	Up Button	n/a	n/a
+563.692	n/a	n/a	S  8	STATUS	n/a	n/a
+563.692	n/a	n/a	R 12	STATUS	n/a	n/a
+564.667	0.754	n/a	boundary	n/a	n/a	n/a
+564.754	n/a	n/a	S  5	STATUS	n/a	n/a
+564.754	n/a	n/a	R  6	STATUS	n/a	n/a
+565.368	n/a	n/a	S  2	Right Button	n/a	n/a
+565.64	n/a	n/a	S  9	STATUS	n/a	n/a
+565.64	n/a	n/a	R 12	STATUS	n/a	n/a
+566.696	n/a	n/a	S  1	Fixation	n/a	n/a
+567.199	0.752	n/a	boundary	n/a	n/a	n/a
+567.512	n/a	n/a	S  3	Left Button	n/a	n/a
+567.694	n/a	n/a	S  8	STATUS	n/a	n/a
+567.694	n/a	n/a	R 12	STATUS	n/a	n/a
+567.963	0.504	n/a	boundary	n/a	n/a	n/a
+568.246	n/a	n/a	S  1	Fixation	n/a	n/a
+569.036	n/a	n/a	S  6	STATUS	n/a	n/a
+569.036	n/a	n/a	R  6	STATUS	n/a	n/a
+569.424	n/a	n/a	S  4	Up Button	n/a	n/a
+569.726	n/a	n/a	S  9	STATUS	n/a	n/a
+569.726	n/a	n/a	R 12	STATUS	n/a	n/a
+570.78	n/a	n/a	S  1	Fixation	n/a	n/a
+571.532	n/a	n/a	S  6	STATUS	n/a	n/a
+571.532	n/a	n/a	R  6	STATUS	n/a	n/a
+572.364	n/a	n/a	S  3	Left Button	n/a	n/a
+572.566	n/a	n/a	S  8	STATUS	n/a	n/a
+572.566	n/a	n/a	R 12	STATUS	n/a	n/a
+573.62	n/a	n/a	S  1	Fixation	n/a	n/a
+573.785	0.498	n/a	boundary	n/a	n/a	n/a
+574.862	n/a	n/a	S  4	Up Button	n/a	n/a
+575.022	n/a	n/a	S  8	STATUS	n/a	n/a
+575.022	n/a	n/a	R 12	STATUS	n/a	n/a
+576.078	n/a	n/a	S  1	Fixation	n/a	n/a
+576.82	n/a	n/a	S  9	STATUS	n/a	n/a
+576.82	n/a	n/a	R  6	STATUS	n/a	n/a
+577.474	n/a	n/a	S  2	Right Button	n/a	n/a
+577.666	n/a	n/a	S  9	STATUS	n/a	n/a
+577.666	n/a	n/a	R 12	STATUS	n/a	n/a
+578.595	0.754	n/a	boundary	n/a	n/a	n/a
+578.7	n/a	n/a	S  7	STATUS	n/a	n/a
+578.7	n/a	n/a	R  6	STATUS	n/a	n/a
+579.844	n/a	n/a	S  4	Up Button	n/a	n/a
+580.034	n/a	n/a	S  9	STATUS	n/a	n/a
+580.034	n/a	n/a	R 12	STATUS	n/a	n/a
+580.621	0.254	n/a	boundary	n/a	n/a	n/a
+580.836	n/a	n/a	S  1	Fixation	n/a	n/a
+581.129	0.504	n/a	boundary	n/a	n/a	n/a
+581.894	n/a	n/a	S  3	Left Button	n/a	n/a
+582.166	n/a	n/a	S  9	STATUS	n/a	n/a
+582.166	n/a	n/a	R 12	STATUS	n/a	n/a
+583.153	0.504	n/a	boundary	n/a	n/a	n/a
+583.438	n/a	n/a	S  9	STATUS	n/a	n/a
+583.438	n/a	n/a	R  6	STATUS	n/a	n/a
+584.31	n/a	n/a	S  2	Right Button	n/a	n/a
+584.47	n/a	n/a	S  9	STATUS	n/a	n/a
+584.47	n/a	n/a	R 12	STATUS	n/a	n/a
+585.435	0.498	n/a	boundary	n/a	n/a	n/a
+585.75	n/a	n/a	S  9	STATUS	n/a	n/a
+585.75	n/a	n/a	R  6	STATUS	n/a	n/a
+586.676	n/a	n/a	S  3	Left Button	n/a	n/a
+586.906	n/a	n/a	S  8	STATUS	n/a	n/a
+586.906	n/a	n/a	R 12	STATUS	n/a	n/a
+587.209	1.516	n/a	boundary	n/a	n/a	n/a
+587.288	n/a	n/a	S  5	STATUS	n/a	n/a
+587.288	n/a	n/a	R  6	STATUS	n/a	n/a
+588.284	n/a	n/a	S  4	Up Button	n/a	n/a
+588.434	n/a	n/a	S  8	STATUS	n/a	n/a
+588.434	n/a	n/a	R 12	STATUS	n/a	n/a
+589.485	0.504	n/a	boundary	n/a	n/a	n/a
+589.768	n/a	n/a	S  6	STATUS	n/a	n/a
+589.768	n/a	n/a	R  6	STATUS	n/a	n/a
+590.208	n/a	n/a	S  2	Right Button	n/a	n/a
+590.55	n/a	n/a	S  9	STATUS	n/a	n/a
+590.55	n/a	n/a	R 12	STATUS	n/a	n/a
+590.753	1.516	n/a	boundary	n/a	n/a	n/a
+590.82	n/a	n/a	S  5	STATUS	n/a	n/a
+590.82	n/a	n/a	R  6	STATUS	n/a	n/a
+591.232	n/a	n/a	S  3	Left Button	n/a	n/a
+591.552	n/a	n/a	S  9	STATUS	n/a	n/a
+591.552	n/a	n/a	R 12	STATUS	n/a	n/a
+592.608	n/a	n/a	S  1	Fixation	n/a	n/a
+592.779	0.504	n/a	boundary	n/a	n/a	n/a
+592.866	n/a	n/a	S 10	STATUS	n/a	n/a
+592.866	n/a	n/a	R  6	STATUS	n/a	n/a
+593.668	n/a	n/a	S  4	Up Button	n/a	n/a
+593.978	n/a	n/a	S  9	STATUS	n/a	n/a
+593.978	n/a	n/a	R 12	STATUS	n/a	n/a
+594.803	0.504	n/a	boundary	n/a	n/a	n/a
+595.372	n/a	n/a	S  9	STATUS	n/a	n/a
+595.372	n/a	n/a	R  6	STATUS	n/a	n/a
+596.248	n/a	n/a	S  4	Up Button	n/a	n/a
+596.528	n/a	n/a	S  9	STATUS	n/a	n/a
+596.528	n/a	n/a	R 12	STATUS	n/a	n/a
+597.079	0.51	n/a	boundary	n/a	n/a	n/a
+597.806	n/a	n/a	S  5	STATUS	n/a	n/a
+597.806	n/a	n/a	R  6	STATUS	n/a	n/a
+598.69	n/a	n/a	S  3	Left Button	n/a	n/a
+598.94	n/a	n/a	S  9	STATUS	n/a	n/a
+598.94	n/a	n/a	R 12	STATUS	n/a	n/a
+599.859	0.754	n/a	boundary	n/a	n/a	n/a
+600.014	n/a	n/a	S  6	STATUS	n/a	n/a
+600.014	n/a	n/a	R  6	STATUS	n/a	n/a
+600.696	n/a	n/a	S  3	Left Button	n/a	n/a
+601.006	n/a	n/a	S  8	STATUS	n/a	n/a
+601.006	n/a	n/a	R 12	STATUS	n/a	n/a
+601.385	1.004	n/a	boundary	n/a	n/a	n/a
+601.9	n/a	n/a	S  8	STATUS	n/a	n/a
+601.9	n/a	n/a	R  6	STATUS	n/a	n/a
+602.712	n/a	n/a	S  2	Right Button	n/a	n/a
+602.872	n/a	n/a	S  8	STATUS	n/a	n/a
+602.872	n/a	n/a	R 12	STATUS	n/a	n/a
+603.928	n/a	n/a	S  1	Fixation	n/a	n/a
+604.71	n/a	n/a	S  8	STATUS	n/a	n/a
+604.71	n/a	n/a	R  6	STATUS	n/a	n/a
+605.12	n/a	n/a	S  3	Left Button	n/a	n/a
+605.44	n/a	n/a	S  8	STATUS	n/a	n/a
+605.44	n/a	n/a	R 12	STATUS	n/a	n/a
+606.496	n/a	n/a	S  1	Fixation	n/a	n/a
+607.348	n/a	n/a	S  7	STATUS	n/a	n/a
+607.348	n/a	n/a	R  6	STATUS	n/a	n/a
+607.954	n/a	n/a	S  3	Left Button	n/a	n/a
+608.286	n/a	n/a	S  8	STATUS	n/a	n/a
+608.286	n/a	n/a	R 12	STATUS	n/a	n/a
+609.342	n/a	n/a	S  1	Fixation	n/a	n/a
+610.194	n/a	n/a	S  7	STATUS	n/a	n/a
+610.194	n/a	n/a	R  6	STATUS	n/a	n/a
+610.57	n/a	n/a	S  4	Up Button	n/a	n/a
+610.812	n/a	n/a	S  8	STATUS	n/a	n/a
+610.812	n/a	n/a	R 12	STATUS	n/a	n/a
+611.253	1.766	n/a	boundary	n/a	n/a	n/a
+611.308	n/a	n/a	S  2	Right Button	n/a	n/a
+611.562	n/a	n/a	S  9	STATUS	n/a	n/a
+611.562	n/a	n/a	R 12	STATUS	n/a	n/a
+612.618	n/a	n/a	S  1	Fixation	n/a	n/a
+613.298	n/a	n/a	S  6	STATUS	n/a	n/a
+613.298	n/a	n/a	R  6	STATUS	n/a	n/a
+613.984	n/a	n/a	S  2	Right Button	n/a	n/a
+614.266	n/a	n/a	S  9	STATUS	n/a	n/a
+614.266	n/a	n/a	R 12	STATUS	n/a	n/a
+614.801	1.004	n/a	boundary	n/a	n/a	n/a
+615.1	n/a	n/a	S  7	STATUS	n/a	n/a
+615.1	n/a	n/a	R  6	STATUS	n/a	n/a
+616.048	n/a	n/a	S  2	Right Button	n/a	n/a
+616.26	n/a	n/a	S  8	STATUS	n/a	n/a
+616.26	n/a	n/a	R 12	STATUS	n/a	n/a
+617.316	n/a	n/a	S  1	Fixation	n/a	n/a
+618.008	n/a	n/a	S  8	STATUS	n/a	n/a
+618.008	n/a	n/a	R  6	STATUS	n/a	n/a
+618.544	n/a	n/a	S  3	Left Button	n/a	n/a
+618.856	n/a	n/a	S  8	STATUS	n/a	n/a
+618.856	n/a	n/a	R 12	STATUS	n/a	n/a
+619.867	0.754	n/a	boundary	n/a	n/a	n/a
+620.226	n/a	n/a	S  4	Up Button	n/a	n/a
+620.448	n/a	n/a	S  8	STATUS	n/a	n/a
+620.448	n/a	n/a	R 12	STATUS	n/a	n/a
+621.504	n/a	n/a	S  1	Fixation	n/a	n/a
+621.893	0.504	n/a	boundary	n/a	n/a	n/a
+622.151	0.754	n/a	boundary	n/a	n/a	n/a
+622.657	3.29	n/a	boundary	n/a	n/a	n/a
+622.822	n/a	n/a	S  5	STATUS	n/a	n/a
+622.822	n/a	n/a	R  6	STATUS	n/a	n/a
+623.67	n/a	n/a	S  3	Left Button	n/a	n/a
+623.874	n/a	n/a	S  9	STATUS	n/a	n/a
+623.874	n/a	n/a	R 12	STATUS	n/a	n/a
+624.93	n/a	n/a	S  1	Fixation	n/a	n/a
+625.437	0.504	n/a	boundary	n/a	n/a	n/a
+625.942	n/a	n/a	S  4	Up Button	n/a	n/a
+626.224	n/a	n/a	S  9	STATUS	n/a	n/a
+626.224	n/a	n/a	R 12	STATUS	n/a	n/a
+626.957	0.754	n/a	boundary	n/a	n/a	n/a
+627.218	n/a	n/a	S  8	STATUS	n/a	n/a
+627.218	n/a	n/a	R  6	STATUS	n/a	n/a
+628.644	n/a	n/a	S  2	Right Button	n/a	n/a
+628.916	n/a	n/a	S  8	STATUS	n/a	n/a
+628.916	n/a	n/a	R 12	STATUS	n/a	n/a
+629.972	n/a	n/a	S  1	Fixation	n/a	n/a
+629.999	1.004	n/a	boundary	n/a	n/a	n/a
+630.228	n/a	n/a	S  3	Left Button	n/a	n/a
+630.48	n/a	n/a	S  9	STATUS	n/a	n/a
+630.48	n/a	n/a	R 12	STATUS	n/a	n/a
+631.019	1.004	n/a	boundary	n/a	n/a	n/a
+631.314	n/a	n/a	S  9	STATUS	n/a	n/a
+631.314	n/a	n/a	R  6	STATUS	n/a	n/a
+631.872	n/a	n/a	S  3	Left Button	n/a	n/a
+632.074	n/a	n/a	S  9	STATUS	n/a	n/a
+632.074	n/a	n/a	R 12	STATUS	n/a	n/a
+633.13	n/a	n/a	S  1	Fixation	n/a	n/a
+633.912	n/a	n/a	S 10	STATUS	n/a	n/a
+633.912	n/a	n/a	R  6	STATUS	n/a	n/a
+634.36	n/a	n/a	S  4	Up Button	n/a	n/a
+634.572	n/a	n/a	S  9	STATUS	n/a	n/a
+634.572	n/a	n/a	R 12	STATUS	n/a	n/a
+635.628	n/a	n/a	S  1	Fixation	n/a	n/a
+636.438	n/a	n/a	S  5	STATUS	n/a	n/a
+636.438	n/a	n/a	R  6	STATUS	n/a	n/a
+637.164	n/a	n/a	S  2	Right Button	n/a	n/a
+637.316	n/a	n/a	S  8	STATUS	n/a	n/a
+637.316	n/a	n/a	R 12	STATUS	n/a	n/a
+638.372	n/a	n/a	S  1	Fixation	n/a	n/a
+639.144	n/a	n/a	S  5	STATUS	n/a	n/a
+639.144	n/a	n/a	R  6	STATUS	n/a	n/a
+639.46	n/a	n/a	S  3	Left Button	n/a	n/a
+639.722	n/a	n/a	S  8	STATUS	n/a	n/a
+639.722	n/a	n/a	R 12	STATUS	n/a	n/a
+640.778	n/a	n/a	S  1	Fixation	n/a	n/a
+640.887	0.504	n/a	boundary	n/a	n/a	n/a
+640.934	n/a	n/a	S 10	STATUS	n/a	n/a
+640.934	n/a	n/a	R  6	STATUS	n/a	n/a
+641.792	n/a	n/a	S  3	Left Button	n/a	n/a
+642.054	n/a	n/a	S  8	STATUS	n/a	n/a
+642.054	n/a	n/a	R 12	STATUS	n/a	n/a
+642.663	1.004	n/a	boundary	n/a	n/a	n/a
+642.798	n/a	n/a	S  5	STATUS	n/a	n/a
+642.798	n/a	n/a	R  6	STATUS	n/a	n/a
+643.292	n/a	n/a	S  4	Up Button	n/a	n/a
+643.564	n/a	n/a	S  8	STATUS	n/a	n/a
+643.564	n/a	n/a	R 12	STATUS	n/a	n/a
+644.437	0.754	n/a	boundary	n/a	n/a	n/a
+647.225	0.754	n/a	boundary	n/a	n/a	n/a
+647.282	n/a	n/a	S  1	Fixation	n/a	n/a
+647.483	0.754	n/a	boundary	n/a	n/a	n/a
+648.122	n/a	n/a	S  3	Left Button	n/a	n/a
+648.434	n/a	n/a	S  8	STATUS	n/a	n/a
+648.434	n/a	n/a	R 12	STATUS	n/a	n/a
+648.751	1.516	n/a	boundary	n/a	n/a	n/a
+649.678	n/a	n/a	S  3	Left Button	n/a	n/a
+650.022	n/a	n/a	S  9	STATUS	n/a	n/a
+650.022	n/a	n/a	R 12	STATUS	n/a	n/a
+651.078	n/a	n/a	S  1	Fixation	n/a	n/a
+651.818	n/a	n/a	S 10	STATUS	n/a	n/a
+651.818	n/a	n/a	R  6	STATUS	n/a	n/a
+652.95	n/a	n/a	S  2	Right Button	n/a	n/a
+653.242	n/a	n/a	S  8	STATUS	n/a	n/a
+653.242	n/a	n/a	R 12	STATUS	n/a	n/a
+654.298	n/a	n/a	S  1	Fixation	n/a	n/a
+654.317	0.504	n/a	boundary	n/a	n/a	n/a
+654.646	n/a	n/a	S  7	STATUS	n/a	n/a
+654.646	n/a	n/a	R  6	STATUS	n/a	n/a
+655.474	n/a	n/a	S  3	Left Button	n/a	n/a
+655.796	n/a	n/a	S  9	STATUS	n/a	n/a
+655.796	n/a	n/a	R 12	STATUS	n/a	n/a
+656.093	0.498	n/a	boundary	n/a	n/a	n/a
+656.354	n/a	n/a	S  1	Fixation	n/a	n/a
+657.134	n/a	n/a	S  8	STATUS	n/a	n/a
+657.134	n/a	n/a	R  6	STATUS	n/a	n/a
+658.124	n/a	n/a	S  3	Left Button	n/a	n/a
+658.326	n/a	n/a	S  8	STATUS	n/a	n/a
+658.326	n/a	n/a	R 12	STATUS	n/a	n/a
+658.629	0.754	n/a	boundary	n/a	n/a	n/a
+659.368	n/a	n/a	S  9	STATUS	n/a	n/a
+659.368	n/a	n/a	R  6	STATUS	n/a	n/a
+659.802	n/a	n/a	S  4	Up Button	n/a	n/a
+660.094	n/a	n/a	S  8	STATUS	n/a	n/a
+660.094	n/a	n/a	R 12	STATUS	n/a	n/a
+661.15	n/a	n/a	S  1	Fixation	n/a	n/a
+661.92	n/a	n/a	S 10	STATUS	n/a	n/a
+661.92	n/a	n/a	R  6	STATUS	n/a	n/a
+662.47	n/a	n/a	S  2	Right Button	n/a	n/a
+662.632	n/a	n/a	S  8	STATUS	n/a	n/a
+662.632	n/a	n/a	R 12	STATUS	n/a	n/a
+663.183	1.01	n/a	boundary	n/a	n/a	n/a
+663.368	n/a	n/a	S  9	STATUS	n/a	n/a
+663.368	n/a	n/a	R  6	STATUS	n/a	n/a
+663.732	n/a	n/a	S  3	Left Button	n/a	n/a
+663.954	n/a	n/a	S  9	STATUS	n/a	n/a
+663.954	n/a	n/a	R 12	STATUS	n/a	n/a
+665.01	n/a	n/a	S  1	Fixation	n/a	n/a
+665.78	n/a	n/a	S  6	STATUS	n/a	n/a
+665.78	n/a	n/a	R  6	STATUS	n/a	n/a
+666.388	n/a	n/a	S  3	Left Button	n/a	n/a
+666.57	n/a	n/a	S  9	STATUS	n/a	n/a
+666.57	n/a	n/a	R 12	STATUS	n/a	n/a
+667.624	n/a	n/a	S  1	Fixation	n/a	n/a
+668.346	n/a	n/a	S  8	STATUS	n/a	n/a
+668.346	n/a	n/a	R  6	STATUS	n/a	n/a
+669.196	n/a	n/a	S  4	Up Button	n/a	n/a
+669.398	n/a	n/a	S  8	STATUS	n/a	n/a
+669.398	n/a	n/a	R 12	STATUS	n/a	n/a
+670.454	n/a	n/a	S  1	Fixation	n/a	n/a
+671.164	n/a	n/a	S  7	STATUS	n/a	n/a
+671.164	n/a	n/a	R  6	STATUS	n/a	n/a
+671.764	n/a	n/a	S  3	Left Button	n/a	n/a
+672.026	n/a	n/a	S  8	STATUS	n/a	n/a
+672.026	n/a	n/a	R 12	STATUS	n/a	n/a
+673.082	n/a	n/a	S  1	Fixation	n/a	n/a
+673.922	n/a	n/a	S  8	STATUS	n/a	n/a
+673.922	n/a	n/a	R  6	STATUS	n/a	n/a
+674.408	n/a	n/a	S  2	Right Button	n/a	n/a
+674.76	n/a	n/a	S  9	STATUS	n/a	n/a
+674.76	n/a	n/a	R 12	STATUS	n/a	n/a
+675.818	n/a	n/a	S  1	Fixation	n/a	n/a
+675.831	0.754	n/a	boundary	n/a	n/a	n/a
+675.874	n/a	n/a	S  7	STATUS	n/a	n/a
+675.874	n/a	n/a	R  6	STATUS	n/a	n/a
+676.606	n/a	n/a	S  2	Right Button	n/a	n/a
+676.958	n/a	n/a	S  9	STATUS	n/a	n/a
+676.958	n/a	n/a	R 12	STATUS	n/a	n/a
+678.014	n/a	n/a	S  1	Fixation	n/a	n/a
+678.844	n/a	n/a	S 10	STATUS	n/a	n/a
+678.844	n/a	n/a	R  6	STATUS	n/a	n/a
+679.978	n/a	n/a	S  4	Up Button	n/a	n/a
+680.2	n/a	n/a	S  9	STATUS	n/a	n/a
+680.2	n/a	n/a	R 12	STATUS	n/a	n/a
+681.147	0.754	n/a	boundary	n/a	n/a	n/a
+681.162	n/a	n/a	S  6	STATUS	n/a	n/a
+681.162	n/a	n/a	R  6	STATUS	n/a	n/a
+682.016	n/a	n/a	S  3	Left Button	n/a	n/a
+682.318	n/a	n/a	S  8	STATUS	n/a	n/a
+682.318	n/a	n/a	R 12	STATUS	n/a	n/a
+683.374	n/a	n/a	S  1	Fixation	n/a	n/a
+684.164	n/a	n/a	S  9	STATUS	n/a	n/a
+684.164	n/a	n/a	R  6	STATUS	n/a	n/a
+685.088	n/a	n/a	S  4	Up Button	n/a	n/a
+685.4	n/a	n/a	S  9	STATUS	n/a	n/a
+685.4	n/a	n/a	R 12	STATUS	n/a	n/a
+686.456	n/a	n/a	S  1	Fixation	n/a	n/a
+687.166	n/a	n/a	S  9	STATUS	n/a	n/a
+687.166	n/a	n/a	R  6	STATUS	n/a	n/a
+687.94	n/a	n/a	S  2	Right Button	n/a	n/a
+688.112	n/a	n/a	S  8	STATUS	n/a	n/a
+688.112	n/a	n/a	R 12	STATUS	n/a	n/a
+689.168	n/a	n/a	S  1	Fixation	n/a	n/a
+689.247	0.504	n/a	boundary	n/a	n/a	n/a
+689.464	n/a	n/a	S  9	STATUS	n/a	n/a
+689.464	n/a	n/a	R  6	STATUS	n/a	n/a
+689.9	n/a	n/a	S  4	Up Button	n/a	n/a
+690.162	n/a	n/a	S  9	STATUS	n/a	n/a
+690.162	n/a	n/a	R 12	STATUS	n/a	n/a
+691.218	n/a	n/a	S  1	Fixation	n/a	n/a
+691.92	n/a	n/a	S  9	STATUS	n/a	n/a
+691.92	n/a	n/a	R  6	STATUS	n/a	n/a
+692.48	n/a	n/a	S  4	Up Button	n/a	n/a
+692.832	n/a	n/a	S  8	STATUS	n/a	n/a
+692.832	n/a	n/a	R 12	STATUS	n/a	n/a
+693.888	n/a	n/a	S  1	Fixation	n/a	n/a
+694.558	n/a	n/a	S  5	STATUS	n/a	n/a
+694.558	n/a	n/a	R  6	STATUS	n/a	n/a
+696.112	n/a	n/a	S  3	Left Button	n/a	n/a
+696.112	n/a	n/a	R  6	STATUS	n/a	n/a
+696.414	n/a	n/a	S  7	STATUS	n/a	n/a
+696.414	n/a	n/a	R 12	STATUS	n/a	n/a
+697.468	n/a	n/a	S  1	Fixation	n/a	n/a
+698.13	n/a	n/a	S  7	STATUS	n/a	n/a
+698.13	n/a	n/a	R  6	STATUS	n/a	n/a
+698.796	n/a	n/a	S  2	Right Button	n/a	n/a
+699.038	n/a	n/a	S  8	STATUS	n/a	n/a
+699.038	n/a	n/a	R 12	STATUS	n/a	n/a
+700.094	n/a	n/a	S  1	Fixation	n/a	n/a
+700.123	0.502	n/a	boundary	n/a	n/a	n/a
+700.312	n/a	n/a	S  8	STATUS	n/a	n/a
+700.312	n/a	n/a	R  6	STATUS	n/a	n/a
+700.934	n/a	n/a	S  4	Up Button	n/a	n/a
+701.236	n/a	n/a	S  9	STATUS	n/a	n/a
+701.236	n/a	n/a	R 12	STATUS	n/a	n/a
+702.149	0.754	n/a	boundary	n/a	n/a	n/a
+702.278	n/a	n/a	S  5	STATUS	n/a	n/a
+702.278	n/a	n/a	R  6	STATUS	n/a	n/a
+703.248	n/a	n/a	S  2	Right Button	n/a	n/a
+703.58	n/a	n/a	S  8	STATUS	n/a	n/a
+703.58	n/a	n/a	R 12	STATUS	n/a	n/a
+704.636	n/a	n/a	S  1	Fixation	n/a	n/a
+705.306	n/a	n/a	S  6	STATUS	n/a	n/a
+705.306	n/a	n/a	R  6	STATUS	n/a	n/a
+705.776	n/a	n/a	S  3	Left Button	n/a	n/a
+706.058	n/a	n/a	S  9	STATUS	n/a	n/a
+706.058	n/a	n/a	R 12	STATUS	n/a	n/a
+707.114	n/a	n/a	S  1	Fixation	n/a	n/a
+707.215	0.498	n/a	boundary	n/a	n/a	n/a
+707.406	n/a	n/a	S  6	STATUS	n/a	n/a
+707.406	n/a	n/a	R  6	STATUS	n/a	n/a
+708.506	n/a	n/a	S  3	Left Button	n/a	n/a
+708.678	n/a	n/a	S  9	STATUS	n/a	n/a
+708.678	n/a	n/a	R 12	STATUS	n/a	n/a
+708.741	0.754	n/a	boundary	n/a	n/a	n/a
+708.98	n/a	n/a	S  1	Fixation	n/a	n/a
+708.999	0.498	n/a	boundary	n/a	n/a	n/a
+709.182	n/a	n/a	S 10	STATUS	n/a	n/a
+709.182	n/a	n/a	R  6	STATUS	n/a	n/a
+709.934	n/a	n/a	S  4	Up Button	n/a	n/a
+710.236	n/a	n/a	S  9	STATUS	n/a	n/a
+710.236	n/a	n/a	R 12	STATUS	n/a	n/a
+711.279	0.504	n/a	boundary	n/a	n/a	n/a
+711.438	n/a	n/a	S 10	STATUS	n/a	n/a
+711.438	n/a	n/a	R  6	STATUS	n/a	n/a
+712.058	n/a	n/a	S  4	Up Button	n/a	n/a
+712.21	n/a	n/a	S  9	STATUS	n/a	n/a
+712.21	n/a	n/a	R 12	STATUS	n/a	n/a
+713.266	n/a	n/a	S  1	Fixation	n/a	n/a
+714.086	n/a	n/a	S  5	STATUS	n/a	n/a
+714.086	n/a	n/a	R  6	STATUS	n/a	n/a
+714.726	n/a	n/a	S  3	Left Button	n/a	n/a
+714.888	n/a	n/a	S  9	STATUS	n/a	n/a
+714.888	n/a	n/a	R 12	STATUS	n/a	n/a
+715.944	n/a	n/a	S  1	Fixation	n/a	n/a
+716.674	n/a	n/a	S  7	STATUS	n/a	n/a
+716.674	n/a	n/a	R  6	STATUS	n/a	n/a
+717.23	n/a	n/a	S  2	Right Button	n/a	n/a
+717.472	n/a	n/a	S  8	STATUS	n/a	n/a
+717.472	n/a	n/a	R 12	STATUS	n/a	n/a
+718.363	0.504	n/a	boundary	n/a	n/a	n/a
+718.716	n/a	n/a	S 10	STATUS	n/a	n/a
+718.716	n/a	n/a	R  6	STATUS	n/a	n/a
+719.394	n/a	n/a	S  4	Up Button	n/a	n/a
+719.606	n/a	n/a	S  9	STATUS	n/a	n/a
+719.606	n/a	n/a	R 12	STATUS	n/a	n/a
+720.387	0.754	n/a	boundary	n/a	n/a	n/a
+720.65	n/a	n/a	S  7	STATUS	n/a	n/a
+720.65	n/a	n/a	R  6	STATUS	n/a	n/a
+721.316	n/a	n/a	S  2	Right Button	n/a	n/a
+721.666	n/a	n/a	S  9	STATUS	n/a	n/a
+721.666	n/a	n/a	R 12	STATUS	n/a	n/a
+722.724	n/a	n/a	S  1	Fixation	n/a	n/a
+723.384	n/a	n/a	S  7	STATUS	n/a	n/a
+723.384	n/a	n/a	R  6	STATUS	n/a	n/a
+724.176	n/a	n/a	S  2	Right Button	n/a	n/a
+724.478	n/a	n/a	S  9	STATUS	n/a	n/a
+724.478	n/a	n/a	R 12	STATUS	n/a	n/a
+725.534	n/a	n/a	S  1	Fixation	n/a	n/a
+726.324	n/a	n/a	S  8	STATUS	n/a	n/a
+726.324	n/a	n/a	R  6	STATUS	n/a	n/a
+726.992	n/a	n/a	S  2	Right Button	n/a	n/a
+727.232	n/a	n/a	S  9	STATUS	n/a	n/a
+727.232	n/a	n/a	R 12	STATUS	n/a	n/a
+728.29	n/a	n/a	S  1	Fixation	n/a	n/a
+728.96	n/a	n/a	S  6	STATUS	n/a	n/a
+728.96	n/a	n/a	R  6	STATUS	n/a	n/a
+729.592	n/a	n/a	S  3	Left Button	n/a	n/a
+729.842	n/a	n/a	S  9	STATUS	n/a	n/a
+729.842	n/a	n/a	R 12	STATUS	n/a	n/a
+730.898	n/a	n/a	S  1	Fixation	n/a	n/a
+731.523	0.498	n/a	boundary	n/a	n/a	n/a
+731.994	n/a	n/a	S  2	Right Button	n/a	n/a
+732.204	n/a	n/a	S  9	STATUS	n/a	n/a
+732.204	n/a	n/a	R 12	STATUS	n/a	n/a
+732.287	0.754	n/a	boundary	n/a	n/a	n/a
+732.506	n/a	n/a	S  1	Fixation	n/a	n/a
+733.328	n/a	n/a	S  6	STATUS	n/a	n/a
+733.328	n/a	n/a	R  6	STATUS	n/a	n/a
+733.976	n/a	n/a	S  3	Left Button	n/a	n/a
+734.256	n/a	n/a	S  9	STATUS	n/a	n/a
+734.256	n/a	n/a	R 12	STATUS	n/a	n/a
+735.312	n/a	n/a	S  1	Fixation	n/a	n/a
+736.054	n/a	n/a	S  8	STATUS	n/a	n/a
+736.054	n/a	n/a	R  6	STATUS	n/a	n/a
+736.876	n/a	n/a	S  2	Right Button	n/a	n/a
+737.088	n/a	n/a	S  8	STATUS	n/a	n/a
+737.088	n/a	n/a	R 12	STATUS	n/a	n/a
+737.603	1.01	n/a	boundary	n/a	n/a	n/a
+737.824	n/a	n/a	S  9	STATUS	n/a	n/a
+737.824	n/a	n/a	R  6	STATUS	n/a	n/a
+739.154	n/a	n/a	S  4	Up Button	n/a	n/a
+739.324	n/a	n/a	S  8	STATUS	n/a	n/a
+739.324	n/a	n/a	R 12	STATUS	n/a	n/a
+740.382	n/a	n/a	S  1	Fixation	n/a	n/a
+741.132	n/a	n/a	S  8	STATUS	n/a	n/a
+741.132	n/a	n/a	R  6	STATUS	n/a	n/a
+742.686	n/a	n/a	S  3	Left Button	n/a	n/a
+742.686	n/a	n/a	R  6	STATUS	n/a	n/a
+742.938	n/a	n/a	S  7	STATUS	n/a	n/a
+742.938	n/a	n/a	R 12	STATUS	n/a	n/a
+743.425	0.498	n/a	boundary	n/a	n/a	n/a
+743.494	n/a	n/a	S  1	Fixation	n/a	n/a
+744.226	n/a	n/a	S  6	STATUS	n/a	n/a
+744.226	n/a	n/a	R  6	STATUS	n/a	n/a
+744.632	n/a	n/a	S  4	Up Button	n/a	n/a
+744.812	n/a	n/a	S  8	STATUS	n/a	n/a
+744.812	n/a	n/a	R 12	STATUS	n/a	n/a
+745.868	n/a	n/a	S  1	Fixation	n/a	n/a
+745.961	0.754	n/a	boundary	n/a	n/a	n/a
+746.466	n/a	n/a	S  2	Right Button	n/a	n/a
+746.758	n/a	n/a	S  9	STATUS	n/a	n/a
+746.758	n/a	n/a	R 12	STATUS	n/a	n/a
+747.814	n/a	n/a	S  1	Fixation	n/a	n/a
+748.666	n/a	n/a	S  6	STATUS	n/a	n/a
+748.666	n/a	n/a	R  6	STATUS	n/a	n/a
+749.262	n/a	n/a	S  2	Right Button	n/a	n/a
+749.492	n/a	n/a	S  8	STATUS	n/a	n/a
+749.492	n/a	n/a	R 12	STATUS	n/a	n/a
+750.55	n/a	n/a	S  1	Fixation	n/a	n/a
+751.26	n/a	n/a	S 10	STATUS	n/a	n/a
+751.26	n/a	n/a	R  6	STATUS	n/a	n/a
+752.37	n/a	n/a	S  3	Left Button	n/a	n/a
+752.52	n/a	n/a	S  8	STATUS	n/a	n/a
+752.52	n/a	n/a	R 12	STATUS	n/a	n/a
+753.576	n/a	n/a	S  1	Fixation	n/a	n/a
+754.278	n/a	n/a	S 10	STATUS	n/a	n/a
+754.278	n/a	n/a	R  6	STATUS	n/a	n/a
+754.718	n/a	n/a	S  4	Up Button	n/a	n/a
+755.048	n/a	n/a	S  8	STATUS	n/a	n/a
+755.048	n/a	n/a	R 12	STATUS	n/a	n/a
+756.081	0.754	n/a	boundary	n/a	n/a	n/a
+756.4	n/a	n/a	S  2	Right Button	n/a	n/a
+756.74	n/a	n/a	S  8	STATUS	n/a	n/a
+756.74	n/a	n/a	R 12	STATUS	n/a	n/a
+757.796	n/a	n/a	S  1	Fixation	n/a	n/a
+757.855	0.754	n/a	boundary	n/a	n/a	n/a
+758.286	n/a	n/a	S  3	Left Button	n/a	n/a
+758.506	n/a	n/a	S  8	STATUS	n/a	n/a
+758.506	n/a	n/a	R 12	STATUS	n/a	n/a
+759.562	n/a	n/a	S  1	Fixation	n/a	n/a
+760.294	n/a	n/a	S  7	STATUS	n/a	n/a
+760.294	n/a	n/a	R  6	STATUS	n/a	n/a
+761.08	n/a	n/a	S  4	Up Button	n/a	n/a
+761.382	n/a	n/a	S  8	STATUS	n/a	n/a
+761.382	n/a	n/a	R 12	STATUS	n/a	n/a
+762.415	0.504	n/a	boundary	n/a	n/a	n/a
+762.736	n/a	n/a	S  8	STATUS	n/a	n/a
+762.736	n/a	n/a	R  6	STATUS	n/a	n/a
+764.29	n/a	n/a	S  3	Left Button	n/a	n/a
+764.29	n/a	n/a	R  6	STATUS	n/a	n/a
+764.592	n/a	n/a	S  7	STATUS	n/a	n/a
+764.592	n/a	n/a	R 12	STATUS	n/a	n/a
+765.646	n/a	n/a	S  1	Fixation	n/a	n/a
+766.368	n/a	n/a	S  6	STATUS	n/a	n/a
+766.368	n/a	n/a	R  6	STATUS	n/a	n/a
+766.772	n/a	n/a	S  3	Left Button	n/a	n/a
+767.064	n/a	n/a	S  8	STATUS	n/a	n/a
+767.064	n/a	n/a	R 12	STATUS	n/a	n/a
+768.122	n/a	n/a	S  1	Fixation	n/a	n/a
+768.852	n/a	n/a	S  9	STATUS	n/a	n/a
+768.852	n/a	n/a	R  6	STATUS	n/a	n/a
+769.296	n/a	n/a	S  2	Right Button	n/a	n/a
+769.57	n/a	n/a	S  9	STATUS	n/a	n/a
+769.57	n/a	n/a	R 12	STATUS	n/a	n/a
+770.511	0.498	n/a	boundary	n/a	n/a	n/a
+770.81	n/a	n/a	S  7	STATUS	n/a	n/a
+770.81	n/a	n/a	R  6	STATUS	n/a	n/a
+771.55	n/a	n/a	S  4	Up Button	n/a	n/a
+771.832	n/a	n/a	S  8	STATUS	n/a	n/a
+771.832	n/a	n/a	R 12	STATUS	n/a	n/a
+772.89	n/a	n/a	S  1	Fixation	n/a	n/a
+773.65	n/a	n/a	S  9	STATUS	n/a	n/a
+773.65	n/a	n/a	R  6	STATUS	n/a	n/a
+774.222	n/a	n/a	S  2	Right Button	n/a	n/a
+774.384	n/a	n/a	S  8	STATUS	n/a	n/a
+774.384	n/a	n/a	R 12	STATUS	n/a	n/a
+775.442	n/a	n/a	S  1	Fixation	n/a	n/a
+776.252	n/a	n/a	S  9	STATUS	n/a	n/a
+776.252	n/a	n/a	R  6	STATUS	n/a	n/a
+777.09	n/a	n/a	S  2	Right Button	n/a	n/a
+777.242	n/a	n/a	S  9	STATUS	n/a	n/a
+777.242	n/a	n/a	R 12	STATUS	n/a	n/a
+778.105	0.754	n/a	boundary	n/a	n/a	n/a
+778.266	n/a	n/a	S  5	STATUS	n/a	n/a
+778.266	n/a	n/a	R  6	STATUS	n/a	n/a
+778.984	n/a	n/a	S  4	Up Button	n/a	n/a
+779.296	n/a	n/a	S  9	STATUS	n/a	n/a
+779.296	n/a	n/a	R 12	STATUS	n/a	n/a
+780.352	n/a	n/a	S  1	Fixation	n/a	n/a
+781.124	n/a	n/a	S  8	STATUS	n/a	n/a
+781.124	n/a	n/a	R  6	STATUS	n/a	n/a
+781.908	n/a	n/a	S  3	Left Button	n/a	n/a
+782.2	n/a	n/a	S  9	STATUS	n/a	n/a
+782.2	n/a	n/a	R 12	STATUS	n/a	n/a
+783.167	0.502	n/a	boundary	n/a	n/a	n/a
+783.486	n/a	n/a	S  9	STATUS	n/a	n/a
+783.486	n/a	n/a	R  6	STATUS	n/a	n/a
+784.274	n/a	n/a	S  2	Right Button	n/a	n/a
+784.446	n/a	n/a	S  9	STATUS	n/a	n/a
+784.446	n/a	n/a	R 12	STATUS	n/a	n/a
+785.504	n/a	n/a	S  1	Fixation	n/a	n/a
+786.354	n/a	n/a	S  9	STATUS	n/a	n/a
+786.354	n/a	n/a	R  6	STATUS	n/a	n/a
+786.918	n/a	n/a	S  3	Left Button	n/a	n/a
+787.18	n/a	n/a	S  9	STATUS	n/a	n/a
+787.18	n/a	n/a	R 12	STATUS	n/a	n/a
+788.236	n/a	n/a	S  1	Fixation	n/a	n/a
+788.948	n/a	n/a	S  9	STATUS	n/a	n/a
+788.948	n/a	n/a	R  6	STATUS	n/a	n/a
+789.842	n/a	n/a	S  2	Right Button	n/a	n/a
+790.194	n/a	n/a	S  9	STATUS	n/a	n/a
+790.194	n/a	n/a	R 12	STATUS	n/a	n/a
+791.25	n/a	n/a	S  1	Fixation	n/a	n/a
+792.032	n/a	n/a	S  8	STATUS	n/a	n/a
+792.032	n/a	n/a	R  6	STATUS	n/a	n/a
+792.502	n/a	n/a	S  3	Left Button	n/a	n/a
+792.834	n/a	n/a	S  8	STATUS	n/a	n/a
+792.834	n/a	n/a	R 12	STATUS	n/a	n/a
+793.89	n/a	n/a	S  1	Fixation	n/a	n/a
+794.712	n/a	n/a	S  9	STATUS	n/a	n/a
+794.712	n/a	n/a	R  6	STATUS	n/a	n/a
+795.618	n/a	n/a	S  2	Right Button	n/a	n/a
+795.81	n/a	n/a	S  8	STATUS	n/a	n/a
+795.81	n/a	n/a	R 12	STATUS	n/a	n/a
+796.866	n/a	n/a	S  1	Fixation	n/a	n/a
+797.333	0.504	n/a	boundary	n/a	n/a	n/a
+797.398	n/a	n/a	S  4	Up Button	n/a	n/a
+797.6	n/a	n/a	S  9	STATUS	n/a	n/a
+797.6	n/a	n/a	R 12	STATUS	n/a	n/a
+798.656	n/a	n/a	S  1	Fixation	n/a	n/a
+799.348	n/a	n/a	S  7	STATUS	n/a	n/a
+799.348	n/a	n/a	R  6	STATUS	n/a	n/a
+799.954	n/a	n/a	S  3	Left Button	n/a	n/a
+800.196	n/a	n/a	S  8	STATUS	n/a	n/a
+800.196	n/a	n/a	R 12	STATUS	n/a	n/a
+801.079	3.188	n/a	boundary	n/a	n/a	n/a
+801.16	n/a	n/a	S  8	STATUS	n/a	n/a
+801.16	n/a	n/a	R  6	STATUS	n/a	n/a
+801.506	n/a	n/a	S  4	Up Button	n/a	n/a
+801.735	2.02	n/a	boundary	n/a	n/a	n/a
+801.986	n/a	n/a	S  3	Left Button	n/a	n/a
+802.318	n/a	n/a	S  8	STATUS	n/a	n/a
+802.318	n/a	n/a	R 12	STATUS	n/a	n/a
+802.749	1.01	n/a	boundary	n/a	n/a	n/a
+803.014	n/a	n/a	S  5	STATUS	n/a	n/a
+803.014	n/a	n/a	R  6	STATUS	n/a	n/a
+803.636	n/a	n/a	S  2	Right Button	n/a	n/a
+803.948	n/a	n/a	S  9	STATUS	n/a	n/a
+803.948	n/a	n/a	R 12	STATUS	n/a	n/a
+805.004	n/a	n/a	S  1	Fixation	n/a	n/a
+805.656	n/a	n/a	S  6	STATUS	n/a	n/a
+805.656	n/a	n/a	R  6	STATUS	n/a	n/a
+806.488	n/a	n/a	S  4	Up Button	n/a	n/a
+806.67	n/a	n/a	S  8	STATUS	n/a	n/a
+806.67	n/a	n/a	R 12	STATUS	n/a	n/a
+807.726	n/a	n/a	S  1	Fixation	n/a	n/a
+808.388	n/a	n/a	S  6	STATUS	n/a	n/a
+808.388	n/a	n/a	R  6	STATUS	n/a	n/a
+809.256	n/a	n/a	S  4	Up Button	n/a	n/a
+809.578	n/a	n/a	S  8	STATUS	n/a	n/a
+809.578	n/a	n/a	R 12	STATUS	n/a	n/a
+810.089	1.004	n/a	boundary	n/a	n/a	n/a
+810.342	n/a	n/a	S  8	STATUS	n/a	n/a
+810.342	n/a	n/a	R  6	STATUS	n/a	n/a
+810.996	n/a	n/a	S  3	Left Button	n/a	n/a
+811.168	n/a	n/a	S  8	STATUS	n/a	n/a
+811.168	n/a	n/a	R 12	STATUS	n/a	n/a
+812.224	n/a	n/a	S  1	Fixation	n/a	n/a
+812.984	n/a	n/a	S  7	STATUS	n/a	n/a
+812.984	n/a	n/a	R  6	STATUS	n/a	n/a
+813.524	n/a	n/a	S  2	Right Button	n/a	n/a
+813.846	n/a	n/a	S  8	STATUS	n/a	n/a
+813.846	n/a	n/a	R 12	STATUS	n/a	n/a
+814.393	1.26	n/a	boundary	n/a	n/a	n/a
+814.98	n/a	n/a	S  2	Right Button	n/a	n/a
+815.282	n/a	n/a	S  8	STATUS	n/a	n/a
+815.282	n/a	n/a	R 12	STATUS	n/a	n/a
+816.338	n/a	n/a	S  1	Fixation	n/a	n/a
+817.158	n/a	n/a	S  9	STATUS	n/a	n/a
+817.158	n/a	n/a	R  6	STATUS	n/a	n/a
+817.828	n/a	n/a	S  3	Left Button	n/a	n/a
+818.072	n/a	n/a	S  9	STATUS	n/a	n/a
+818.072	n/a	n/a	R 12	STATUS	n/a	n/a
+819.128	n/a	n/a	S  1	Fixation	n/a	n/a
+819.828	n/a	n/a	S  7	STATUS	n/a	n/a
+819.828	n/a	n/a	R  6	STATUS	n/a	n/a
+820.28	n/a	n/a	S  3	Left Button	n/a	n/a
+820.562	n/a	n/a	S  9	STATUS	n/a	n/a
+820.562	n/a	n/a	R 12	STATUS	n/a	n/a
+821.618	n/a	n/a	S  1	Fixation	n/a	n/a
+821.731	0.504	n/a	boundary	n/a	n/a	n/a
+821.764	n/a	n/a	S  6	STATUS	n/a	n/a
+821.764	n/a	n/a	R  6	STATUS	n/a	n/a
+822.52	n/a	n/a	S  4	Up Button	n/a	n/a
+822.692	n/a	n/a	S  9	STATUS	n/a	n/a
+822.692	n/a	n/a	R 12	STATUS	n/a	n/a
+823.507	0.498	n/a	boundary	n/a	n/a	n/a
+823.92	n/a	n/a	S  6	STATUS	n/a	n/a
+823.92	n/a	n/a	R  6	STATUS	n/a	n/a
+824.57	n/a	n/a	S  4	Up Button	n/a	n/a
+824.812	n/a	n/a	S  9	STATUS	n/a	n/a
+824.812	n/a	n/a	R 12	STATUS	n/a	n/a
+825.868	n/a	n/a	S  1	Fixation	n/a	n/a
+826.608	n/a	n/a	S  8	STATUS	n/a	n/a
+826.608	n/a	n/a	R  6	STATUS	n/a	n/a
+827.15	n/a	n/a	S  3	Left Button	n/a	n/a
+827.402	n/a	n/a	S  8	STATUS	n/a	n/a
+827.402	n/a	n/a	R 12	STATUS	n/a	n/a
+828.458	n/a	n/a	S  1	Fixation	n/a	n/a
+829.308	n/a	n/a	S 10	STATUS	n/a	n/a
+829.308	n/a	n/a	R  6	STATUS	n/a	n/a
+830.21	n/a	n/a	S  2	Right Button	n/a	n/a
+830.462	n/a	n/a	S  9	STATUS	n/a	n/a
+830.462	n/a	n/a	R 12	STATUS	n/a	n/a
+831.353	0.504	n/a	boundary	n/a	n/a	n/a
+831.806	n/a	n/a	S  9	STATUS	n/a	n/a
+831.806	n/a	n/a	R  6	STATUS	n/a	n/a
+832.61	n/a	n/a	S  3	Left Button	n/a	n/a
+832.952	n/a	n/a	S  9	STATUS	n/a	n/a
+832.952	n/a	n/a	R 12	STATUS	n/a	n/a
+834.008	n/a	n/a	S  1	Fixation	n/a	n/a
+834.748	n/a	n/a	S 10	STATUS	n/a	n/a
+834.748	n/a	n/a	R  6	STATUS	n/a	n/a
+835.534	n/a	n/a	S  2	Right Button	n/a	n/a
+835.746	n/a	n/a	S  9	STATUS	n/a	n/a
+835.746	n/a	n/a	R 12	STATUS	n/a	n/a
+836.802	n/a	n/a	S  1	Fixation	n/a	n/a
+837.504	n/a	n/a	S  9	STATUS	n/a	n/a
+837.504	n/a	n/a	R  6	STATUS	n/a	n/a
+838.046	n/a	n/a	S  3	Left Button	n/a	n/a
+838.378	n/a	n/a	S  9	STATUS	n/a	n/a
+838.378	n/a	n/a	R 12	STATUS	n/a	n/a
+839.434	n/a	n/a	S  1	Fixation	n/a	n/a
+840.244	n/a	n/a	S  7	STATUS	n/a	n/a
+840.244	n/a	n/a	R  6	STATUS	n/a	n/a
+840.946	n/a	n/a	S  3	Left Button	n/a	n/a
+841.288	n/a	n/a	S  9	STATUS	n/a	n/a
+841.288	n/a	n/a	R 12	STATUS	n/a	n/a
+842.344	n/a	n/a	S  1	Fixation	n/a	n/a
+843.194	n/a	n/a	S  5	STATUS	n/a	n/a
+843.194	n/a	n/a	R  6	STATUS	n/a	n/a
+844.682	n/a	n/a	S  2	Right Button	n/a	n/a
+844.914	n/a	n/a	S  8	STATUS	n/a	n/a
+844.914	n/a	n/a	R 12	STATUS	n/a	n/a
+845.97	n/a	n/a	S  1	Fixation	n/a	n/a
+846.692	n/a	n/a	S 10	STATUS	n/a	n/a
+846.692	n/a	n/a	R  6	STATUS	n/a	n/a
+848.234	n/a	n/a	S  3	Left Button	n/a	n/a
+848.416	n/a	n/a	S  8	STATUS	n/a	n/a
+848.416	n/a	n/a	R 12	STATUS	n/a	n/a
+849.472	n/a	n/a	S  1	Fixation	n/a	n/a
+849.563	0.504	n/a	boundary	n/a	n/a	n/a
+849.698	n/a	n/a	S  5	STATUS	n/a	n/a
+849.698	n/a	n/a	R  6	STATUS	n/a	n/a
+851.154	n/a	n/a	S  2	Right Button	n/a	n/a
+851.306	n/a	n/a	S  8	STATUS	n/a	n/a
+851.306	n/a	n/a	R 12	STATUS	n/a	n/a
+852.362	n/a	n/a	S  1	Fixation	n/a	n/a
+853.142	n/a	n/a	S  6	STATUS	n/a	n/a
+853.142	n/a	n/a	R  6	STATUS	n/a	n/a
+854.062	n/a	n/a	S  3	Left Button	n/a	n/a
+854.274	n/a	n/a	S  9	STATUS	n/a	n/a
+854.274	n/a	n/a	R 12	STATUS	n/a	n/a
+855.33	n/a	n/a	S  1	Fixation	n/a	n/a
+856.052	n/a	n/a	S  8	STATUS	n/a	n/a
+856.052	n/a	n/a	R  6	STATUS	n/a	n/a
+856.702	n/a	n/a	S  2	Right Button	n/a	n/a
+856.974	n/a	n/a	S  9	STATUS	n/a	n/a
+856.974	n/a	n/a	R 12	STATUS	n/a	n/a
+857.915	0.498	n/a	boundary	n/a	n/a	n/a
+858.382	n/a	n/a	S  6	STATUS	n/a	n/a
+858.382	n/a	n/a	R  6	STATUS	n/a	n/a
+859.064	n/a	n/a	S  3	Left Button	n/a	n/a
+859.326	n/a	n/a	S  9	STATUS	n/a	n/a
+859.326	n/a	n/a	R 12	STATUS	n/a	n/a
+859.691	1.258	n/a	boundary	n/a	n/a	n/a
+859.774	n/a	n/a	S  9	STATUS	n/a	n/a
+859.774	n/a	n/a	R  6	STATUS	n/a	n/a
+860.594	n/a	n/a	S  4	Up Button	n/a	n/a
+860.776	n/a	n/a	S  9	STATUS	n/a	n/a
+860.776	n/a	n/a	R 12	STATUS	n/a	n/a
+861.467	0.754	n/a	boundary	n/a	n/a	n/a
+861.878	n/a	n/a	S  7	STATUS	n/a	n/a
+861.878	n/a	n/a	R  6	STATUS	n/a	n/a
+862.56	n/a	n/a	S  2	Right Button	n/a	n/a
+862.832	n/a	n/a	S  8	STATUS	n/a	n/a
+862.832	n/a	n/a	R 12	STATUS	n/a	n/a
+863.888	n/a	n/a	S  1	Fixation	n/a	n/a
+864.688	n/a	n/a	S 10	STATUS	n/a	n/a
+864.688	n/a	n/a	R  6	STATUS	n/a	n/a
+865.764	n/a	n/a	S  2	Right Button	n/a	n/a
+866.056	n/a	n/a	S  9	STATUS	n/a	n/a
+866.056	n/a	n/a	R 12	STATUS	n/a	n/a
+867.112	n/a	n/a	S  1	Fixation	n/a	n/a
+867.289	0.504	n/a	boundary	n/a	n/a	n/a
+867.32	n/a	n/a	S 10	STATUS	n/a	n/a
+867.32	n/a	n/a	R  6	STATUS	n/a	n/a
+868.56	n/a	n/a	S  4	Up Button	n/a	n/a
+868.912	n/a	n/a	S  8	STATUS	n/a	n/a
+868.912	n/a	n/a	R 12	STATUS	n/a	n/a
+869.819	0.504	n/a	boundary	n/a	n/a	n/a
+870.214	n/a	n/a	S 10	STATUS	n/a	n/a
+870.214	n/a	n/a	R  6	STATUS	n/a	n/a
+870.896	n/a	n/a	S  3	Left Button	n/a	n/a
+871.068	n/a	n/a	S  9	STATUS	n/a	n/a
+871.068	n/a	n/a	R 12	STATUS	n/a	n/a
+872.124	n/a	n/a	S  1	Fixation	n/a	n/a
+872.794	n/a	n/a	S  8	STATUS	n/a	n/a
+872.794	n/a	n/a	R  6	STATUS	n/a	n/a
+873.412	n/a	n/a	S  3	Left Button	n/a	n/a
+873.574	n/a	n/a	S  8	STATUS	n/a	n/a
+873.574	n/a	n/a	R 12	STATUS	n/a	n/a
+874.63	n/a	n/a	S  1	Fixation	n/a	n/a
+874.631	1.258	n/a	boundary	n/a	n/a	n/a
+874.906	n/a	n/a	S  2	Right Button	n/a	n/a
+875.118	n/a	n/a	S  9	STATUS	n/a	n/a
+875.118	n/a	n/a	R 12	STATUS	n/a	n/a
+876.174	n/a	n/a	S  1	Fixation	n/a	n/a
+877.004	n/a	n/a	S  7	STATUS	n/a	n/a
+877.004	n/a	n/a	R  6	STATUS	n/a	n/a
+878.07	n/a	n/a	S  4	Up Button	n/a	n/a
+878.232	n/a	n/a	S  9	STATUS	n/a	n/a
+878.232	n/a	n/a	R 12	STATUS	n/a	n/a
+879.286	n/a	n/a	S  1	Fixation	n/a	n/a
+879.968	n/a	n/a	S  5	STATUS	n/a	n/a
+879.968	n/a	n/a	R  6	STATUS	n/a	n/a
+880.662	n/a	n/a	S  2	Right Button	n/a	n/a
+880.954	n/a	n/a	S  8	STATUS	n/a	n/a
+880.954	n/a	n/a	R 12	STATUS	n/a	n/a
+882.01	n/a	n/a	S  1	Fixation	n/a	n/a
+882.79	n/a	n/a	S  8	STATUS	n/a	n/a
+882.79	n/a	n/a	R  6	STATUS	n/a	n/a
+883.094	n/a	n/a	S  4	Up Button	n/a	n/a
+883.384	n/a	n/a	S  8	STATUS	n/a	n/a
+883.384	n/a	n/a	R 12	STATUS	n/a	n/a
+884.44	n/a	n/a	S  1	Fixation	n/a	n/a
+885.142	n/a	n/a	S  6	STATUS	n/a	n/a
+885.142	n/a	n/a	R  6	STATUS	n/a	n/a
+885.522	n/a	n/a	S  3	Left Button	n/a	n/a
+885.864	n/a	n/a	S  9	STATUS	n/a	n/a
+885.864	n/a	n/a	R 12	STATUS	n/a	n/a
+886.267	0.754	n/a	boundary	n/a	n/a	n/a
+886.958	n/a	n/a	S  5	STATUS	n/a	n/a
+886.958	n/a	n/a	R  6	STATUS	n/a	n/a
+887.692	n/a	n/a	S  3	Left Button	n/a	n/a
+887.932	n/a	n/a	S  9	STATUS	n/a	n/a
+887.932	n/a	n/a	R 12	STATUS	n/a	n/a
+888.988	n/a	n/a	S  1	Fixation	n/a	n/a
+889.72	n/a	n/a	S  9	STATUS	n/a	n/a
+889.72	n/a	n/a	R  6	STATUS	n/a	n/a
+890.508	n/a	n/a	S  2	Right Button	n/a	n/a
+890.678	n/a	n/a	S  9	STATUS	n/a	n/a
+890.678	n/a	n/a	R 12	STATUS	n/a	n/a
+891.736	n/a	n/a	S  1	Fixation	n/a	n/a
+891.839	0.498	n/a	boundary	n/a	n/a	n/a
+892.058	n/a	n/a	S  6	STATUS	n/a	n/a
+892.058	n/a	n/a	R  6	STATUS	n/a	n/a
+892.678	n/a	n/a	S  2	Right Button	n/a	n/a
+892.998	n/a	n/a	S  9	STATUS	n/a	n/a
+892.998	n/a	n/a	R 12	STATUS	n/a	n/a
+894.056	n/a	n/a	S  1	Fixation	n/a	n/a
+894.736	n/a	n/a	S  6	STATUS	n/a	n/a
+894.736	n/a	n/a	R  6	STATUS	n/a	n/a
+895.286	n/a	n/a	S  2	Right Button	n/a	n/a
+895.636	n/a	n/a	S  9	STATUS	n/a	n/a
+895.636	n/a	n/a	R 12	STATUS	n/a	n/a
+896.692	n/a	n/a	S  1	Fixation	n/a	n/a
+897.524	n/a	n/a	S  7	STATUS	n/a	n/a
+897.524	n/a	n/a	R  6	STATUS	n/a	n/a
+898.274	n/a	n/a	S  2	Right Button	n/a	n/a
+898.504	n/a	n/a	S  9	STATUS	n/a	n/a
+898.504	n/a	n/a	R 12	STATUS	n/a	n/a
+899.429	0.254	n/a	boundary	n/a	n/a	n/a
+900.128	n/a	n/a	S  6	STATUS	n/a	n/a
+900.128	n/a	n/a	R  6	STATUS	n/a	n/a
+900.88	n/a	n/a	S  3	Left Button	n/a	n/a
+901.182	n/a	n/a	S  8	STATUS	n/a	n/a
+901.182	n/a	n/a	R 12	STATUS	n/a	n/a
+902.238	n/a	n/a	S  1	Fixation	n/a	n/a
+903.028	n/a	n/a	S  9	STATUS	n/a	n/a
+903.028	n/a	n/a	R  6	STATUS	n/a	n/a
+903.316	n/a	n/a	S  4	Up Button	n/a	n/a
+903.598	n/a	n/a	S  9	STATUS	n/a	n/a
+903.598	n/a	n/a	R 12	STATUS	n/a	n/a
+904.459	1	n/a	boundary	n/a	n/a	n/a
+904.848	n/a	n/a	S  2	Right Button	n/a	n/a
+905.108	n/a	n/a	S  9	STATUS	n/a	n/a
+905.108	n/a	n/a	R 12	STATUS	n/a	n/a
+906.164	n/a	n/a	S  1	Fixation	n/a	n/a
+906.876	n/a	n/a	S  6	STATUS	n/a	n/a
+906.876	n/a	n/a	R  6	STATUS	n/a	n/a
+907.308	n/a	n/a	S  2	Right Button	n/a	n/a
+907.658	n/a	n/a	S  8	STATUS	n/a	n/a
+907.658	n/a	n/a	R 12	STATUS	n/a	n/a
+908.716	n/a	n/a	S  1	Fixation	n/a	n/a
+909.053	0.504	n/a	boundary	n/a	n/a	n/a
+910.004	n/a	n/a	S  3	Left Button	n/a	n/a
+910.184	n/a	n/a	S  9	STATUS	n/a	n/a
+910.184	n/a	n/a	R 12	STATUS	n/a	n/a
+911.24	n/a	n/a	S  1	Fixation	n/a	n/a
+912.042	n/a	n/a	S 10	STATUS	n/a	n/a
+912.042	n/a	n/a	R  6	STATUS	n/a	n/a
+912.832	n/a	n/a	S  2	Right Button	n/a	n/a
+913.012	n/a	n/a	S  8	STATUS	n/a	n/a
+913.012	n/a	n/a	R 12	STATUS	n/a	n/a
+914.068	n/a	n/a	S  1	Fixation	n/a	n/a
+914.8	n/a	n/a	S  7	STATUS	n/a	n/a
+914.8	n/a	n/a	R  6	STATUS	n/a	n/a
+915.832	n/a	n/a	S  4	Up Button	n/a	n/a
+916.122	n/a	n/a	S  9	STATUS	n/a	n/a
+916.122	n/a	n/a	R 12	STATUS	n/a	n/a
+926.253	0.504	n/a	boundary	n/a	n/a	n/a
+928.535	1.002	n/a	boundary	n/a	n/a	n/a
+930.061	0.754	n/a	boundary	n/a	n/a	n/a
+930.569	0.504	n/a	boundary	n/a	n/a	n/a
+931.333	1.51	n/a	boundary	n/a	n/a	n/a
+936.143	2.27	n/a	boundary	n/a	n/a	n/a
+938.425	1.766	n/a	boundary	n/a	n/a	n/a
+938.683	0.256	n/a	boundary	n/a	n/a	n/a
